@@ -36,6 +36,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [Atomic Silumation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/index.html) - Is a set of tools and modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations. 
 * [ccdc](https://downloads.ccdc.cam.ac.uk/documentation/API/index.html) - An API for the Cambridge Structural Database System.
 * [cclib](https://cclib.github.io/) - A library for parsing output files various quantum chemical programs.
+* [cinfony](http://cinfony.github.io/) - A common API to several cheminformatics toolkits (Open Babel, RDKit, the CDK, Indigo, JChem, OPSIN and cheminformatics webservices).
 * [chemlab](http://chemlab.readthedocs.io/en/latest/index.html) - Is a library that can help the user with chemistry-relevant calculations.
 * [deepchem](http://deepchem.io/) - Deep-learning models for Drug Discovery and Quantum Chemistry.
 * [horton](http://theochem.github.io/horton/2.0.1/index.html) - Helpful Open-source Research TOol for N-fermion system, a quantum-chemistry program that can perform computations involving model Hamiltonians.
