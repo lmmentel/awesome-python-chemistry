@@ -62,3 +62,9 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [imolecule](http://futurefullers.com/imolecule/) - An embeddable webGL molecule viewer and file format converter.
 * [pymoldyn](https://pgi-jcns.fz-juelich.de/portal/pages/pymoldyn-main.html) - A viewer for atomic clusters, crystalline and amorphous materials in a unit cell corresponding to one of the seven 3D Bravais lattices.
 
+
+## Database wrappers
+
+*Providing a python layer for accessing chemical databases*
+
+* [ChemSpiPy](http://chemspipy.readthedocs.io/en/latest/) - [ChemSpider](http://www.chemspider.com/) wrapper, that allows chemical searches, chemical file downloads, depiction and retrieval of chemical properties. 
