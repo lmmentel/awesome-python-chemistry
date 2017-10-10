@@ -59,7 +59,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 * [ase-gui](https://wiki.fysik.dtu.dk/ase/ase/gui/gui.html#module-ase.gui) - The graphical user-interface allows users to visualize, manipulate, and render molecular systems and atoms objects.
 * [chemview](http://chemview.readthedocs.io/en/latest/) - An interactive molecular viewer designed for the IPython notebook. 
-* [imolecule](http://futurefullers.com/imolecule/) - An embeddable webGL molecule viewer and file format converter.
+* [imolecule](http://patrickfuller.github.io/imolecule/) - An embeddable webGL molecule viewer and file format converter.
 * [pymoldyn](https://pgi-jcns.fz-juelich.de/portal/pages/pymoldyn-main.html) - A viewer for atomic clusters, crystalline and amorphous materials in a unit cell corresponding to one of the seven 3D Bravais lattices.
 
 
