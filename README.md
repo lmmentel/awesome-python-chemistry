@@ -44,6 +44,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [MDAnalysis](http://www.mdanalysis.org/) - Is an object-oriented library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats.
 * [MMTK](http://dirac.cnrs-orleans.fr/MMTK/) - The Molecular Modeling Toolkit is an Open Source program library for molecular simulation applications.
 * [MolMod](http://molmod.github.io/molmod/index.html) - A library with many components that are useful to write molecular modeling programs.
+* [phonopy](http://atztogo.github.io/phonopy/) - An open source package for phonon calculations at harmonic and quasi-harmonic levels.
 * [pygauss](https://pygauss.readthedocs.io/en/stable/index.html) - An interactive tool for supporting the lifecycle of a computational molecular chemistry investigations.
 * [PyQuante](http://pyquante.sourceforge.net/) -  Is an open-source suite of programs for developing quantum chemistry methods
 * [pysic](https://github.com/thynnine/pysic) - A calculator incorporating various empirical pair and many-body potentials.
@@ -58,7 +59,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 *Packages for viewing molecular structures.*
 
 * [ase-gui](https://wiki.fysik.dtu.dk/ase/ase/gui/gui.html#module-ase.gui) - The graphical user-interface allows users to visualize, manipulate, and render molecular systems and atoms objects.
-* [chemview](http://chemview.readthedocs.io/en/latest/) - An interactive molecular viewer designed for the IPython notebook. 
+* [chemview](http://chemview.readthedocs.io/en/latest/) - An interactive molecular viewer designed for the IPython notebook.
 * [imolecule](http://patrickfuller.github.io/imolecule/) - An embeddable webGL molecule viewer and file format converter.
 * [pymoldyn](https://pgi-jcns.fz-juelich.de/portal/pages/pymoldyn-main.html) - A viewer for atomic clusters, crystalline and amorphous materials in a unit cell corresponding to one of the seven 3D Bravais lattices.
 
