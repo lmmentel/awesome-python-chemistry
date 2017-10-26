@@ -45,6 +45,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [MMTK](http://dirac.cnrs-orleans.fr/MMTK/) - The Molecular Modeling Toolkit is an Open Source program library for molecular simulation applications.
 * [MolMod](http://molmod.github.io/molmod/index.html) - A library with many components that are useful to write molecular modeling programs.
 * [phonopy](http://atztogo.github.io/phonopy/) - An open source package for phonon calculations at harmonic and quasi-harmonic levels.
+* [ProDy](http://prody.csb.pitt.edu/) - An open source package for protein structural dynamics analysis with a flexible and responsive API.
 * [pygauss](https://pygauss.readthedocs.io/en/stable/index.html) - An interactive tool for supporting the lifecycle of a computational molecular chemistry investigations.
 * [PyQuante](http://pyquante.sourceforge.net/) -  Is an open-source suite of programs for developing quantum chemistry methods
 * [pysic](https://github.com/thynnine/pysic) - A calculator incorporating various empirical pair and many-body potentials.
