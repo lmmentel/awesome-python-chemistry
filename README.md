@@ -50,6 +50,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [PyQuante](http://pyquante.sourceforge.net/) -  Is an open-source suite of programs for developing quantum chemistry methods
 * [pysic](https://github.com/thynnine/pysic) - A calculator incorporating various empirical pair and many-body potentials.
 * [Pyscf](https://github.com/sunqm/pyscf) - A quantum chemistry package written in Python.
+* [pyvib2](http://pyvib2.sourceforge.net/) - A program for analyzing vibrational motion and vibrational spectra.
 * [RDKit](http://www.rdkit.org/) - Open-Source Cheminformatics Software.
 * [QUIP](http://libatoms.github.io/QUIP/) - A collection of software tools to carry out molecular dynamics simulations.
 * [tsase](http://theory.cm.utexas.edu/tsase/) - The library which depends on ASE to tackle transition state calculations.
