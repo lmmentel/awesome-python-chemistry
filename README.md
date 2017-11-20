@@ -42,12 +42,12 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [horton](http://theochem.github.io/horton/2.0.1/index.html) - Helpful Open-source Research TOol for N-fermion system, a quantum-chemistry program that can perform computations involving model Hamiltonians.
 * [mathchem](http://mathchem.iam.upr.si/) - Is a free open source package for calculating topological indices and other invariants of molecular graphs.
 * [MDAnalysis](http://www.mdanalysis.org/) - Is an object-oriented library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats.
-* [MDTraj](http://mdtraj.org) - Packagege for manipulating molecular dynamics trajectories with support for multiple formats.
+* [MDTraj](http://mdtraj.org) - Package for manipulating molecular dynamics trajectories with support for multiple formats.
 * [MMTK](http://dirac.cnrs-orleans.fr/MMTK/) - The Molecular Modeling Toolkit is an Open Source program library for molecular simulation applications.
 * [MolMod](http://molmod.github.io/molmod/index.html) - A library with many components that are useful to write molecular modeling programs.
 * [phonopy](http://atztogo.github.io/phonopy/) - An open source package for phonon calculations at harmonic and quasi-harmonic levels.
 * [ProDy](http://prody.csb.pitt.edu/) - An open source package for protein structural dynamics analysis with a flexible and responsive API.
-* [pygauss](https://pygauss.readthedocs.io/en/stable/index.html) - An interactive tool for supporting the lifecycle of a computational molecular chemistry investigations.
+* [pygauss](https://pygauss.readthedocs.io/en/stable/index.html) - An interactive tool for supporting the life cycle of a computational molecular chemistry investigations.
 * [PyQuante](http://pyquante.sourceforge.net/) -  Is an open-source suite of programs for developing quantum chemistry methods
 * [pysic](https://github.com/thynnine/pysic) - A calculator incorporating various empirical pair and many-body potentials.
 * [Pyscf](https://github.com/sunqm/pyscf) - A quantum chemistry package written in Python.
