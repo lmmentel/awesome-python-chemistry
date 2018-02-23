@@ -25,7 +25,6 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [mendeleev](http://mendeleev.readthedocs.io/en/stable/) - A package that provides a python API for accessing various properties of elements from the periodic table of elements.
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A chemical toolbox designed to speak the many languages of chemical data.
 * [periodictable](http://www.reflectometry.org/danse/elements.html) - This package provides a periodic table of the elements with support for mass, density and xray/neutron scattering information.
-* [pubchempy](http://pubchempy.readthedocs.io/en/latest/) - PubChemPy provides a way to interact with PubChem in Python.
 * [pybel](https://openbabel.org/docs/dev/UseTheLibrary/Python_Pybel.html) - Pybel provides convenience functions and classes that make it simpler to use the Open Babel libraries from Python.
 * [pyEQL](https://pyeql.readthedocs.io/en/latest/index.html) - A set of tools for conventional calculations involving solutions (mixtures) and electrolytes.
 * [pymatgen](http://pymatgen.org/) - Python Materials Genomics is a robust, open-source library for materials analysis.
@@ -79,4 +78,6 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 *Providing a python layer for accessing chemical databases*
 
-* [ChemSpiPy](http://chemspipy.readthedocs.io/en/latest/) - [ChemSpider](http://www.chemspider.com/) wrapper, that allows chemical searches, chemical file downloads, depiction and retrieval of chemical properties. 
+* [ChemSpiPy](http://chemspipy.readthedocs.io/en/latest/) - [ChemSpider](http://www.chemspider.com/) wrapper, that allows chemical searches, chemical file downloads, depiction and retrieval of chemical properties.
+* [CIRpy](http://cirpy.readthedocs.io/en/latest/) - An interface for the Chemical Identifier Resolver (CIR) by the CADD Group at the NCI/NIH.
+* [pubchempy](http://pubchempy.readthedocs.io/en/latest/) - PubChemPy provides a way to interact with PubChem in Python.
