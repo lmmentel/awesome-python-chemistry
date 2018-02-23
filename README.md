@@ -6,10 +6,13 @@ A curated list of awesome Python frameworks, libraries, software and resources r
 
 Inspired by [awesome-python](https://awesome-python.com).
 
+**Table of contents**
+
 - [Awesome Python Chemistry](#awesome-python-chemistry)
     - [General Chemistry](#general-chemistry)
     - [Simulations](#simulations)
     - [Molecular Visualization](#molecular-visualization)
+    - [Database Wrappers](#database-wrappers)
 
 
 ## General Chemistry
@@ -70,7 +73,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [pymoldyn](https://pgi-jcns.fz-juelich.de/portal/pages/pymoldyn-main.html) - A viewer for atomic clusters, crystalline and amorphous materials in a unit cell corresponding to one of the seven 3D Bravais lattices.
 
 
-## Database wrappers
+## Database Wrappers
 
 *Providing a python layer for accessing chemical databases*
 
