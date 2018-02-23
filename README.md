@@ -70,6 +70,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [chemview](http://chemview.readthedocs.io/en/latest/) - An interactive molecular viewer designed for the IPython notebook.
 * [imolecule](http://patrickfuller.github.io/imolecule/) - An embeddable webGL molecule viewer and file format converter.
 * [nglview](https://github.com/arose/nglview) - A [Jupyter](https://jupyter.org/) widget to interactively view molecular structures and trajectories.
+* [PyMOL](https://pymol.org/) - A user-sponsored molecular visualization system on an open-source foundation, maintained and distributed by Schrödinger.
 * [pymoldyn](https://pgi-jcns.fz-juelich.de/portal/pages/pymoldyn-main.html) - A viewer for atomic clusters, crystalline and amorphous materials in a unit cell corresponding to one of the seven 3D Bravais lattices.
 
 
