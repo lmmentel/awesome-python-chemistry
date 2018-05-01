@@ -81,3 +81,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [ChemSpiPy](http://chemspipy.readthedocs.io/en/latest/) - [ChemSpider](http://www.chemspider.com/) wrapper, that allows chemical searches, chemical file downloads, depiction and retrieval of chemical properties.
 * [CIRpy](http://cirpy.readthedocs.io/en/latest/) - An interface for the Chemical Identifier Resolver (CIR) by the CADD Group at the NCI/NIH.
 * [pubchempy](http://pubchempy.readthedocs.io/en/latest/) - PubChemPy provides a way to interact with PubChem in Python.
+
+
+## See Also
+* [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) Another list focuses on Cheminformatics, including tools not only in Python.
