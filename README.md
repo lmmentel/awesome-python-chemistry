@@ -29,6 +29,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [pyEQL](https://pyeql.readthedocs.io/en/latest/index.html) - A set of tools for conventional calculations involving solutions (mixtures) and electrolytes.
 * [pymatgen](http://pymatgen.org/) - Python Materials Genomics is a robust, open-source library for materials analysis.
 * [symmetry](http://pythonhosted.org/symmetry/) - Symmetry is a library for materials symmetry analysis.
+* [stk](https://github.com/lukasturcani/stk) - A library for building, manipulating, analyzing and automatic design of molecules, including a genetic algorithm.
 
 
 ## Simulations
@@ -36,7 +37,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 *Packages for atomistic simulations and computational chemistry.*
 
 * [amp](http://amp.readthedocs.io/en/latest/) - Is an open-source package designed to easily bring machine-learning to atomistic calculations.
-* [Atomic Silumation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/index.html) - Is a set of tools and modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations. 
+* [Atomic Silumation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/index.html) - Is a set of tools and modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations.
 * [ccdc](https://downloads.ccdc.cam.ac.uk/documentation/API/index.html) - An API for the Cambridge Structural Database System.
 * [cclib](https://cclib.github.io/) - A library for parsing output files various quantum chemical programs.
 * [cinfony](http://cinfony.github.io/) - A common API to several cheminformatics toolkits (Open Babel, RDKit, the CDK, Indigo, JChem, OPSIN and cheminformatics webservices).
