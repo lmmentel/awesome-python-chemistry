@@ -54,6 +54,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [phonopy](http://atztogo.github.io/phonopy/) - An open source package for phonon calculations at harmonic and quasi-harmonic levels.
 * [PLAMS](https://github.com/SCM-NV/PLAMS) - Python Library for Automating Molecular Simulation: input preparation, job execution, file management, output processing and building data workflows.
 * [ProDy](http://prody.csb.pitt.edu/) - An open source package for protein structural dynamics analysis with a flexible and responsive API.
+* [Psi4](http://psicode.org) - A hybrid Python/C++ open-source package for quantum chemistry.
 * [pygauss](https://pygauss.readthedocs.io/en/stable/index.html) - An interactive tool for supporting the life cycle of a computational molecular chemistry investigations.
 * [PyQuante](http://pyquante.sourceforge.net/) -  Is an open-source suite of programs for developing quantum chemistry methods
 * [pysic](https://github.com/thynnine/pysic) - A calculator incorporating various empirical pair and many-body potentials.
