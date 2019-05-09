@@ -77,7 +77,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [PyMOL](https://pymol.org/) - A user-sponsored molecular visualization system on an open-source foundation, maintained and distributed by Schrödinger.
 * [pymoldyn](https://pgi-jcns.fz-juelich.de/portal/pages/pymoldyn-main.html) - A viewer for atomic clusters, crystalline and amorphous materials in a unit cell corresponding to one of the seven 3D Bravais lattices.
 * [sumo](http://sumo.readthedocs.io/en/latest/) - A toolkit for plotting and analysis of ab initio solid-state calculation data.
-
+* [surfinpy](https://surfinpy.readthedocs.io/en/latest/) - A library for the analysis, plotting and visualisation of ab initio surface calculation data. 
 
 ## Database Wrappers
 
