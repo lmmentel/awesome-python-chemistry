@@ -28,6 +28,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A chemical toolbox designed to speak the many languages of chemical data.
 * [periodictable](http://www.reflectometry.org/danse/elements.html) - This package provides a periodic table of the elements with support for mass, density and xray/neutron scattering information.
 * [pybel](https://openbabel.org/docs/dev/UseTheLibrary/Python_Pybel.html) - Pybel provides convenience functions and classes that make it simpler to use the Open Babel libraries from Python.
+* [pycroscopy](https://pycroscopy.github.io/pycroscopy/index.html) - Scientific analysis of nanoscale materials imaging data.
 * [pyEQL](https://pyeql.readthedocs.io/en/latest/index.html) - A set of tools for conventional calculations involving solutions (mixtures) and electrolytes.
 * [pymatgen](http://pymatgen.org/) - Python Materials Genomics is a robust, open-source library for materials analysis.
 * [symmetry](http://pythonhosted.org/symmetry/) - Symmetry is a library for materials symmetry analysis.
