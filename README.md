@@ -47,6 +47,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [chemlab](http://chemlab.readthedocs.io/en/latest/index.html) - Is a library that can help the user with chemistry-relevant calculations.
 * [deepchem](http://deepchem.io/) - Deep-learning models for Drug Discovery and Quantum Chemistry.
 * [emmet](https://github.com/materialsproject/emmet) - A package to 'build' collections of materials properties from the output of computational materials calculations.
+* [GPAW](https://wiki.fysik.dtu.dk/gpaw/) - Is a density-functional theory (DFT) Python code based on the projector-augmented wave (PAW) method and the atomic simulation environment (ASE).
 * [horton](http://theochem.github.io/horton/2.0.1/index.html) - Helpful Open-source Research TOol for N-fermion system, a quantum-chemistry program that can perform computations involving model Hamiltonians.
 * [Indigo](https://github.com/epam/Indigo) - Universal cheminformatics libraries, utilities and database search tools.
 * [mathchem](http://mathchem.iam.upr.si/) - Is a free open source package for calculating topological indices and other invariants of molecular graphs.
