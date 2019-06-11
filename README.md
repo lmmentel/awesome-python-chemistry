@@ -44,6 +44,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [ccdc](https://downloads.ccdc.cam.ac.uk/documentation/API/index.html) - An API for the Cambridge Structural Database System.
 * [cclib](https://cclib.github.io/) - A library for parsing output files various quantum chemical programs.
 * [cinfony](http://cinfony.github.io/) - A common API to several cheminformatics toolkits (Open Babel, RDKit, the CDK, Indigo, JChem, OPSIN and cheminformatics webservices).
+* [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
 * [chemlab](http://chemlab.readthedocs.io/en/latest/index.html) - Is a library that can help the user with chemistry-relevant calculations.
 * [deepchem](http://deepchem.io/) - Deep-learning models for Drug Discovery and Quantum Chemistry.
 * [emmet](https://github.com/materialsproject/emmet) - A package to 'build' collections of materials properties from the output of computational materials calculations.
