@@ -70,7 +70,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [RDKit](http://www.rdkit.org/) - Open-Source Cheminformatics Software.
 * [QUIP](http://libatoms.github.io/QUIP/) - A collection of software tools to carry out molecular dynamics simulations.
 * [tsase](http://theory.cm.utexas.edu/tsase/) - The library which depends on ASE to tackle transition state calculations.
-* [OPEM](https://github.com/ECSIM/opem) - Open source PEM fuel cell simulation tool.
+* [OPEM](https://github.com/ECSIM/opem) - Open source PEM (Proton Exchange Membrane) fuel cell simulation tool.
 
 
 ## Molecular Visualization
