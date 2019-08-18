@@ -46,6 +46,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [cinfony](http://cinfony.github.io/) - A common API to several cheminformatics toolkits (Open Babel, RDKit, the CDK, Indigo, JChem, OPSIN and cheminformatics webservices).
 * [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
 * [chemlab](http://chemlab.readthedocs.io/en/latest/index.html) - Is a library that can help the user with chemistry-relevant calculations.
+* [chemml](https://hachmannlab.github.io/chemml/) - A machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data.
 * [deepchem](http://deepchem.io/) - Deep-learning models for Drug Discovery and Quantum Chemistry.
 * [emmet](https://github.com/materialsproject/emmet) - A package to 'build' collections of materials properties from the output of computational materials calculations.
 * [GPAW](https://wiki.fysik.dtu.dk/gpaw/) - Is a density-functional theory (DFT) Python code based on the projector-augmented wave (PAW) method and the atomic simulation environment (ASE).
