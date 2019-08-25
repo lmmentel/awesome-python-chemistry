@@ -57,6 +57,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [MDTraj](http://mdtraj.org) - Package for manipulating molecular dynamics trajectories with support for multiple formats.
 * [MMTK](http://dirac.cnrs-orleans.fr/MMTK/) - The Molecular Modeling Toolkit is an Open Source program library for molecular simulation applications.
 * [MolMod](http://molmod.github.io/molmod/index.html) - A library with many components that are useful to write molecular modeling programs.
+* [OPEM](https://github.com/ECSIM/opem) - Open source PEM (Proton Exchange Membrane) fuel cell simulation tool.
 * [phonopy](http://atztogo.github.io/phonopy/) - An open source package for phonon calculations at harmonic and quasi-harmonic levels.
 * [PLAMS](https://github.com/SCM-NV/PLAMS) - Python Library for Automating Molecular Simulation: input preparation, job execution, file management, output processing and building data workflows.
 * [PorePy](https://github.com/pmgbergen/porepy) - A Simulation Tool for Fractured and Deformable Porous Media.
@@ -71,8 +72,6 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [RDKit](http://www.rdkit.org/) - Open-Source Cheminformatics Software.
 * [QUIP](http://libatoms.github.io/QUIP/) - A collection of software tools to carry out molecular dynamics simulations.
 * [tsase](http://theory.cm.utexas.edu/tsase/) - The library which depends on ASE to tackle transition state calculations.
-* [OPEM](https://github.com/ECSIM/opem) - Open source PEM (Proton Exchange Membrane) fuel cell simulation tool.
-
 
 ## Molecular Visualization
 
