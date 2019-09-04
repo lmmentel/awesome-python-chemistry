@@ -30,6 +30,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [pybel](https://openbabel.org/docs/dev/UseTheLibrary/Python_Pybel.html) - Pybel provides convenience functions and classes that make it simpler to use the Open Babel libraries from Python.
 * [pycroscopy](https://pycroscopy.github.io/pycroscopy/index.html) - Scientific analysis of nanoscale materials imaging data.
 * [pyEQL](https://pyeql.readthedocs.io/en/latest/index.html) - A set of tools for conventional calculations involving solutions (mixtures) and electrolytes.
+* [pyiron](http://pyiron.org/) - pyiron - an integrated development environment (IDE) for computational materials science.
 * [pymatgen](http://pymatgen.org/) - Python Materials Genomics is a robust, open-source library for materials analysis.
 * [symmetry](http://pythonhosted.org/symmetry/) - Symmetry is a library for materials symmetry analysis.
 * [stk](https://github.com/lukasturcani/stk) - A library for building, manipulating, analyzing and automatic design of molecules, including a genetic algorithm.
