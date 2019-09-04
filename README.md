@@ -19,7 +19,6 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 *Packages and tools for general chemistry.*
 
-* [ASE](https://wiki.fysik.dtu.dk/ase/) - Atomic Simulation Environment
 * [batchcalculator](http://lukaszmentel.com/batchcalculator/) - A GUI app based on wxPython for calculating the correct amount of reactants (batch) for a particular composition given by the molar ratio of its components.
 * [cctbx](https://cctbx.github.io/) - The Computational Crystallography Toolbox.
 * [chempy](http://pythonhosted.org/chempy/) - ChemPy is a package useful for chemistry (mainly physical/inorganic/analytical chemistry).
