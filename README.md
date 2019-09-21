@@ -71,6 +71,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [Pyscf](https://github.com/sunqm/pyscf) - A quantum chemistry package written in Python.
 * [pyvib2](http://pyvib2.sourceforge.net/) - A program for analyzing vibrational motion and vibrational spectra.
 * [RDKit](http://www.rdkit.org/) - Open-Source Cheminformatics Software.
+* [stk](https://github.com/lukasturcani/stk) - A library for building, manipulating, analyzing and automatic design of molecules.
 * [QUIP](http://libatoms.github.io/QUIP/) - A collection of software tools to carry out molecular dynamics simulations.
 * [tsase](http://theory.cm.utexas.edu/tsase/) - The library which depends on ASE to tackle transition state calculations.
 
