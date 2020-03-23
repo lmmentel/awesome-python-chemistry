@@ -32,6 +32,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [pyEQL](https://pyeql.readthedocs.io/en/latest/index.html) - A set of tools for conventional calculations involving solutions (mixtures) and electrolytes.
 * [pyiron](http://pyiron.org/) - pyiron - an integrated development environment (IDE) for computational materials science.
 * [pymatgen](http://pymatgen.org/) - Python Materials Genomics is a robust, open-source library for materials analysis.
+* [symfit](https://symfit.readthedocs.io/en/stable/) - a curve-fitting library ideally suited to chemistry problems, including fitting experimental kinetics data.
 * [symmetry](http://pythonhosted.org/symmetry/) - Symmetry is a library for materials symmetry analysis.
 * [stk](https://github.com/lukasturcani/stk) - A library for building, manipulating, analyzing and automatic design of molecules, including a genetic algorithm.
 
