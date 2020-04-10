@@ -43,6 +43,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 * [amp](http://amp.readthedocs.io/en/latest/) - Is an open-source package designed to easily bring machine-learning to atomistic calculations.
 * [Atomic Silumation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/index.html) - Is a set of tools and modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations.
+* [CACTVS](https://www.xemistry.com/academic/) - Cactvs is a universal, scriptable cheminformatics toolkit, with a large collection of modules for property computation, chemistry data file I/O and other tasks. 
 * [ccdc](https://downloads.ccdc.cam.ac.uk/documentation/API/index.html) - An API for the Cambridge Structural Database System.
 * [cclib](https://cclib.github.io/) - A library for parsing output files various quantum chemical programs.
 * [cinfony](http://cinfony.github.io/) - A common API to several cheminformatics toolkits (Open Babel, RDKit, the CDK, Indigo, JChem, OPSIN and cheminformatics webservices).
