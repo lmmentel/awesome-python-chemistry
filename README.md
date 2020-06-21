@@ -62,8 +62,10 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [MMTK](http://dirac.cnrs-orleans.fr/MMTK/) - The Molecular Modeling Toolkit is an Open Source program library for molecular simulation applications.
 * [MolMod](http://molmod.github.io/molmod/index.html) - A library with many components that are useful to write molecular modeling programs.
 * [OPEM](https://github.com/ECSIM/opem) - Open source PEM (Proton Exchange Membrane) fuel cell simulation tool.
+* [pGrAdd](https://github.com/VlachosGroup/PythonGroupAdditivity) - A library for estimating thermochemical properties of molecules and adsorbates using group additivity.
 * [phonopy](http://atztogo.github.io/phonopy/) - An open source package for phonon calculations at harmonic and quasi-harmonic levels.
 * [PLAMS](https://github.com/SCM-NV/PLAMS) - Python Library for Automating Molecular Simulation: input preparation, job execution, file management, output processing and building data workflows.
+* [pMuTT](https://vlachosgroup.github.io/pMuTT/) - A library for ab-initio thermodynamic and kinetic parameter estimation.
 * [PorePy](https://github.com/pmgbergen/porepy) - A Simulation Tool for Fractured and Deformable Porous Media.
 * [ProDy](http://prody.csb.pitt.edu/) - An open source package for protein structural dynamics analysis with a flexible and responsive API.
 * [Psi4](http://psicode.org) - A hybrid Python/C++ open-source package for quantum chemistry.
@@ -74,6 +76,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [Pyscf](https://github.com/sunqm/pyscf) - A quantum chemistry package written in Python.
 * [pyvib2](http://pyvib2.sourceforge.net/) - A program for analyzing vibrational motion and vibrational spectra.
 * [RDKit](http://www.rdkit.org/) - Open-Source Cheminformatics Software.
+* [ReNView](https://github.com/VlachosGroup/ReNView/wiki/Reaction-Network-Viewer-(ReNView)-Usage-Instructions) - A program to visualize reaction networks.
 * [stk](https://github.com/lukasturcani/stk) - A library for building, manipulating, analyzing and automatic design of molecules.
 * [QUIP](http://libatoms.github.io/QUIP/) - A collection of software tools to carry out molecular dynamics simulations.
 * [tsase](http://theory.cm.utexas.edu/tsase/) - The library which depends on ASE to tackle transition state calculations.
