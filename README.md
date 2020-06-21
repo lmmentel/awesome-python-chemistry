@@ -77,6 +77,9 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [stk](https://github.com/lukasturcani/stk) - A library for building, manipulating, analyzing and automatic design of molecules.
 * [QUIP](http://libatoms.github.io/QUIP/) - A collection of software tools to carry out molecular dynamics simulations.
 * [tsase](http://theory.cm.utexas.edu/tsase/) - The library which depends on ASE to tackle transition state calculations.
+* [pMuTT](https://vlachosgroup.github.io/pMuTT/) - A library for ab-initio thermodynamic and kinetic parameter estimation.
+* [pGrAdd](https://github.com/VlachosGroup/PythonGroupAdditivity) - A library for estimating thermochemical properties of molecules and adsorbates using group additivity.
+* [ReNView](https://github.com/VlachosGroup/ReNView/wiki/Reaction-Network-Viewer-(ReNView)-Usage-Instructions) - A program to visualize reaction networks.
 
 ## Molecular Visualization
 
