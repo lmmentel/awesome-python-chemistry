@@ -57,6 +57,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [GPAW](https://wiki.fysik.dtu.dk/gpaw/) - Is a density-functional theory (DFT) Python code based on the projector-augmented wave (PAW) method and the atomic simulation environment (ASE).
 * [horton](http://theochem.github.io/horton/2.0.1/index.html) - Helpful Open-source Research TOol for N-fermion system, a quantum-chemistry program that can perform computations involving model Hamiltonians.
 * [Indigo](https://github.com/epam/Indigo) - Universal cheminformatics libraries, utilities and database search tools.
+* [MAML](https://github.com/materialsvirtuallab/maml) - Aims to provide useful high-level interfaces that make ML for materials science as easy as possible.
 * [mathchem](http://mathchem.iam.upr.si/) - Is a free open source package for calculating topological indices and other invariants of molecular graphs.
 * [MDAnalysis](http://www.mdanalysis.org/) - Is an object-oriented library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats.
 * [MDTraj](http://mdtraj.org) - Package for manipulating molecular dynamics trajectories with support for multiple formats.
