@@ -21,6 +21,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 * [batchcalculator](http://lukaszmentel.com/batchcalculator/) - A GUI app based on wxPython for calculating the correct amount of reactants (batch) for a particular composition given by the molar ratio of its components.
 * [cctbx](https://cctbx.github.io/) - The Computational Crystallography Toolbox.
+* [chemlib](https://chemlib.readthedocs.io/en/latest/) - A robust and easy-to-use package that solves a variety of chemistry problems.
 * [chempy](http://pythonhosted.org/chempy/) - ChemPy is a package useful for chemistry (mainly physical/inorganic/analytical chemistry).
 * [GoodVibes](https://github.com/bobbypaton/GoodVibes) - A Python program to compute quasi-harmonic thermochemical data from Gaussian frequency calculations.
 * [ionize](http://lewisamarshall.github.io/ionize/) - Calculates the properties of individual ionic species in aqueous solution, as well as aqueous solutions containing arbitrary sets of ions.
