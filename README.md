@@ -82,6 +82,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [RDKit](http://www.rdkit.org/) - Open-Source Cheminformatics Software.
 * [ReNView](https://github.com/VlachosGroup/ReNView/wiki/Reaction-Network-Viewer-(ReNView)-Usage-Instructions) - A program to visualize reaction networks.
 * [stk](https://github.com/lukasturcani/stk) - A library for building, manipulating, analyzing and automatic design of molecules.
+* [QMsolve](https://github.com/quantum-visualizations/qmsolve) - A module for solving and visualizing the Schrödinger equation.
 * [QUIP](http://libatoms.github.io/QUIP/) - A collection of software tools to carry out molecular dynamics simulations.
 * [tsase](http://theory.cm.utexas.edu/tsase/) - The library which depends on ASE to tackle transition state calculations.
 
