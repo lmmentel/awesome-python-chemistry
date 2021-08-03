@@ -63,6 +63,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [mathchem](http://mathchem.iam.upr.si/) - Is a free open source package for calculating topological indices and other invariants of molecular graphs.
 * [MDAnalysis](http://www.mdanalysis.org/) - Is an object-oriented library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats.
 * [MDTraj](http://mdtraj.org) - Package for manipulating molecular dynamics trajectories with support for multiple formats.
+* [megnet](https://github.com/materialsvirtuallab/megnet) - Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals .
 * [MMTK](http://dirac.cnrs-orleans.fr/MMTK/) - The Molecular Modeling Toolkit is an Open Source program library for molecular simulation applications.
 * [MolMod](http://molmod.github.io/molmod/index.html) - A library with many components that are useful to write molecular modeling programs.
 * [OPEM](https://github.com/ECSIM/opem) - Open source PEM (Proton Exchange Membrane) fuel cell simulation tool.
