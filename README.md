@@ -21,6 +21,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 * [batchcalculator](http://lukaszmentel.com/batchcalculator/) - A GUI app based on wxPython for calculating the correct amount of reactants (batch) for a particular composition given by the molar ratio of its components.
 * [cctbx](https://cctbx.github.io/) - The Computational Crystallography Toolbox.
+* [ChemFormula](https://github.com/molshape/ChemFormula) - ChemFormula provides a class for working with chemical formulas. It allows parsing chemical formulas, calculating formula weights, and generating formatted output strings (e.g. in HTML, LaTeX, or Unicode).
 * [chemlib](https://chemlib.readthedocs.io/en/latest/) - A robust and easy-to-use package that solves a variety of chemistry problems.
 * [chempy](http://pythonhosted.org/chempy/) - ChemPy is a package useful for chemistry (mainly physical/inorganic/analytical chemistry).
 * [GoodVibes](https://github.com/bobbypaton/GoodVibes) - A Python program to compute quasi-harmonic thermochemical data from Gaussian frequency calculations.
