@@ -25,6 +25,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [chemlib](https://chemlib.readthedocs.io/en/latest/) - A robust and easy-to-use package that solves a variety of chemistry problems.
 * [chempy](http://pythonhosted.org/chempy/) - ChemPy is a package useful for chemistry (mainly physical/inorganic/analytical chemistry).
 * [GoodVibes](https://github.com/bobbypaton/GoodVibes) - A Python program to compute quasi-harmonic thermochemical data from Gaussian frequency calculations.
+* [datamol](https://github.com/datamol-org/datamol): - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
 * [ionize](http://lewisamarshall.github.io/ionize/) - Calculates the properties of individual ionic species in aqueous solution, as well as aqueous solutions containing arbitrary sets of ions.
 * [mendeleev](http://mendeleev.readthedocs.io/en/stable/) - A package that provides a python API for accessing various properties of elements from the periodic table of elements.
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A chemical toolbox designed to speak the many languages of chemical data.
@@ -38,7 +39,6 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [symfit](https://symfit.readthedocs.io/en/stable/) - a curve-fitting library ideally suited to chemistry problems, including fitting experimental kinetics data.
 * [symmetry](http://pythonhosted.org/symmetry/) - Symmetry is a library for materials symmetry analysis.
 * [stk](https://github.com/lukasturcani/stk) - A library for building, manipulating, analyzing and automatic design of molecules, including a genetic algorithm.
-* [datamol](https://github.com/datamol-org/datamol): - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
 
 ## Simulations
 
