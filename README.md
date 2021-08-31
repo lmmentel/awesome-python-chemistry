@@ -38,7 +38,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [symfit](https://symfit.readthedocs.io/en/stable/) - a curve-fitting library ideally suited to chemistry problems, including fitting experimental kinetics data.
 * [symmetry](http://pythonhosted.org/symmetry/) - Symmetry is a library for materials symmetry analysis.
 * [stk](https://github.com/lukasturcani/stk) - A library for building, manipulating, analyzing and automatic design of molecules, including a genetic algorithm.
-
+* [datamol](https://github.com/datamol-org/datamol): - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
 
 ## Simulations
 
