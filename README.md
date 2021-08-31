@@ -24,8 +24,8 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [ChemFormula](https://github.com/molshape/ChemFormula) - ChemFormula provides a class for working with chemical formulas. It allows parsing chemical formulas, calculating formula weights, and generating formatted output strings (e.g. in HTML, LaTeX, or Unicode).
 * [chemlib](https://chemlib.readthedocs.io/en/latest/) - A robust and easy-to-use package that solves a variety of chemistry problems.
 * [chempy](http://pythonhosted.org/chempy/) - ChemPy is a package useful for chemistry (mainly physical/inorganic/analytical chemistry).
-* [GoodVibes](https://github.com/bobbypaton/GoodVibes) - A Python program to compute quasi-harmonic thermochemical data from Gaussian frequency calculations.
 * [datamol](https://github.com/datamol-org/datamol): - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
+* [GoodVibes](https://github.com/bobbypaton/GoodVibes) - A Python program to compute quasi-harmonic thermochemical data from Gaussian frequency calculations.
 * [ionize](http://lewisamarshall.github.io/ionize/) - Calculates the properties of individual ionic species in aqueous solution, as well as aqueous solutions containing arbitrary sets of ions.
 * [mendeleev](http://mendeleev.readthedocs.io/en/stable/) - A package that provides a python API for accessing various properties of elements from the periodic table of elements.
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A chemical toolbox designed to speak the many languages of chemical data.
