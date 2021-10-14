@@ -13,6 +13,7 @@ Inspired by [awesome-python](https://awesome-python.com).
     - [Simulations](#simulations)
     - [Molecular Visualization](#molecular-visualization)
     - [Database Wrappers](#database-wrappers)
+    - [Machine Learning](#machine-learning)
 
 
 ## General Chemistry
@@ -109,6 +110,9 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [CIRpy](http://cirpy.readthedocs.io/en/latest/) - An interface for the Chemical Identifier Resolver (CIR) by the CADD Group at the NCI/NIH.
 * [pubchempy](http://pubchempy.readthedocs.io/en/latest/) - PubChemPy provides a way to interact with PubChem in Python.
 
+## Machine Learning
+
+* [Summit](https://github.com/sustainable-processes/summit) - Package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
 
 ## See Also
 * [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) Another list focuses on Cheminformatics, including tools not only in Python.
