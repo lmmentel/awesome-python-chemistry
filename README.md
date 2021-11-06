@@ -95,6 +95,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [MMTK](http://dirac.cnrs-orleans.fr/MMTK/) - The Molecular Modeling Toolkit is an Open Source program library for molecular simulation applications.
 - [MolMod](http://molmod.github.io/molmod/index.html) - A library with many components that are useful to write molecular modeling programs.
 - [OPEM](https://github.com/ECSIM/opem) - Open source PEM (Proton Exchange Membrane) fuel cell simulation tool.
+- [openff-toolkit](https://github.com/openforcefield/openff-toolkit) - The Open Forcefield Toolkit provides implementations of the SMIRNOFF format, parameterization engine, and other tools.
 - [pGrAdd](https://github.com/VlachosGroup/PythonGroupAdditivity) - A library for estimating thermochemical properties of molecules and adsorbates using group additivity.
 - [phonopy](http://atztogo.github.io/phonopy/) - An open source package for phonon calculations at harmonic and quasi-harmonic levels.
 - [PLAMS](https://github.com/SCM-NV/PLAMS) - Python Library for Automating Molecular Simulation: input preparation, job execution, file management, output processing and building data workflows.
