@@ -70,8 +70,9 @@ Inspired by [awesome-python](https://awesome-python.com).
 *Packages and tools for generating molecular species*
 
 - [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) - A platform for graph-based molecular generation using graph neural networks.
-- [GuacaMol](https://github.com/BenevolentAI/guacamol) -  A package for benchmarking of models for _de novo_ molecular design.
+- [GuacaMol](https://github.com/BenevolentAI/guacamol) - A package for benchmarking of models for _de novo_ molecular design.
 - [moses](https://github.com/molecularsets/moses) - A benchmarking platform for molecular generation models.
+- [perses](https://github.com/choderalab/perses) - Experiments with expanded ensembles to explore chemical space.
 
 ## Simulations
 
@@ -107,7 +108,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [Psi4](http://psicode.org) - A hybrid Python/C++ open-source package for quantum chemistry.
 - [pyEMMA](http://www.emma-project.org/latest/) - Library for the estimation, validation and analysis Markov models of molecular kinetics and other kinetic and thermodynamic models from molecular dynamics data.
 - [pygauss](https://pygauss.readthedocs.io/en/stable/index.html) - An interactive tool for supporting the life cycle of a computational molecular chemistry investigations.
-- [PyQuante](http://pyquante.sourceforge.net/) -  Is an open-source suite of programs for developing quantum chemistry methods
+- [PyQuante](http://pyquante.sourceforge.net/) - Is an open-source suite of programs for developing quantum chemistry methods
 - [pysic](https://github.com/thynnine/pysic) - A calculator incorporating various empirical pair and many-body potentials.
 - [Pyscf](https://github.com/sunqm/pyscf) - A quantum chemistry package written in Python.
 - [pyvib2](http://pyvib2.sourceforge.net/) - A program for analyzing vibrational motion and vibrational spectra.
