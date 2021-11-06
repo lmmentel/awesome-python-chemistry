@@ -60,6 +60,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [graphein](https://github.com/a-r-j/graphein) - Provides functionality for producing geometric representations of protein and RNA structures, and biological interaction networks.
 - [megnet](https://github.com/materialsvirtuallab/megnet) - Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals.
 - [MAML](https://github.com/materialsvirtuallab/maml) - Aims to provide useful high-level interfaces that make ML for materials science as easy as possible.
+- [schnetpack](https://github.com/atomistic-machine-learning/schnetpack) - Deep Neural Networks for Atomistic Systems.
 - [selfies](https://github.com/aspuru-guzik-group/selfies) - Self-Referencing Embedded Strings (SELFIES): A 100% robust molecular string representation.
 - [Summit](https://github.com/sustainable-processes/summit) - Package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
 - [TDC](https://github.com/mims-harvard/TDC) - Therapeutics Data Commons (TDC) is the first unifying framework to systematically access and evaluate machine learning across the entire range of therapeutics.
