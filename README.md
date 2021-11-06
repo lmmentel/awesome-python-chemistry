@@ -54,6 +54,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [chainer-chemistry](https://github.com/chainer/chainer-chemistry) - A deep learning framework (based on Chainer) with applications in Biology and Chemistry.
 - [chemml](https://hachmannlab.github.io/chemml/) - A machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data.
 - [cgnn](https://github.com/txie-93/cgcnn) - Crystal graph convolutional neural networks for predicting material properties.
+- [deepchem](http://deepchem.io/) - Deep-learning models for Drug Discovery and Quantum Chemistry.
 - [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - A Deep Learning Library for Compound and Protein Modeling DTI, Drug Property, PPI, DDI, Protein Function Prediction.
 - [DescriptaStorus](https://github.com/bp-kelley/descriptastorus) - Descriptor computation (chemistry) and (optional) storage for machine learning.
 - [graphein](https://github.com/a-r-j/graphein) - Provides functionality for producing geometric representations of protein and RNA structures, and biological interaction networks.
@@ -80,9 +81,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [CACTVS](https://www.xemistry.com/academic/) - Cactvs is a universal, scriptable cheminformatics toolkit, with a large collection of modules for property computation, chemistry data file I/O and other tasks. 
 - [cclib](https://cclib.github.io/) - A library for parsing output files various quantum chemical programs.
 - [cinfony](http://cinfony.github.io/) - A common API to several cheminformatics toolkits (Open Babel, RDKit, the CDK, Indigo, JChem, OPSIN and cheminformatics webservices).
-- [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
 - [chemlab](http://chemlab.readthedocs.io/en/latest/index.html) - Is a library that can help the user with chemistry-relevant calculations.
-- [deepchem](http://deepchem.io/) - Deep-learning models for Drug Discovery and Quantum Chemistry.
 - [emmet](https://github.com/materialsproject/emmet) - A package to 'build' collections of materials properties from the output of computational materials calculations.
 - [FitSNAP](https://github.com/FitSNAP/FitSNAP) - A Package For Training SNAP Interatomic Potentials for use in the LAMMPS molecular dynamics package.
 - [FLARE](https://github.com/mir-group/flare) - A package for creating fast and accurate interatomic potentials.
