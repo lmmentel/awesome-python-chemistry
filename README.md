@@ -65,6 +65,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [selfies](https://github.com/aspuru-guzik-group/selfies) - Self-Referencing Embedded Strings (SELFIES): A 100% robust molecular string representation.
 - [Summit](https://github.com/sustainable-processes/summit) - Package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
 - [TDC](https://github.com/mims-harvard/TDC) - Therapeutics Data Commons (TDC) is the first unifying framework to systematically access and evaluate machine learning across the entire range of therapeutics.
+- [XenonPy](https://github.com/yoshida-lab/XenonPy) - Library with several compositional and structural material descriptors, along with a few pre-trained neural network models of material properties.
 
 ## Generative Molecular Design
 
