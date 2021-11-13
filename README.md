@@ -80,13 +80,11 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 - [Atomic Silumation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/index.html) - Is a set of tools and modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations.
 - [basis_set_exchange](https://github.com/MolSSI-BSE/basis_set_exchange) - A library containing basis sets for use in quantum chemistry calculations. In addition, this library has functionality for manipulation of basis set data.
-- [CACTVS](https://www.xemistry.com/academic/) - Cactvs is a universal, scriptable cheminformatics toolkit, with a large collection of modules for property computation, chemistry data file I/O and other tasks. 
+- [CACTVS](https://www.xemistry.com/academic/) - Cactvs is a universal, scriptable cheminformatics toolkit, with a large collection of modules for property computation, chemistry data file I/O and other tasks.
 - [cclib](https://cclib.github.io/) - A library for parsing output files various quantum chemical programs.
 - [cinfony](http://cinfony.github.io/) - A common API to several cheminformatics toolkits (Open Babel, RDKit, the CDK, Indigo, JChem, OPSIN and cheminformatics webservices).
 - [chemlab](http://chemlab.readthedocs.io/en/latest/index.html) - Is a library that can help the user with chemistry-relevant calculations.
 - [emmet](https://github.com/materialsproject/emmet) - A package to 'build' collections of materials properties from the output of computational materials calculations.
-- [FitSNAP](https://github.com/FitSNAP/FitSNAP) - A Package For Training SNAP Interatomic Potentials for use in the LAMMPS molecular dynamics package.
-- [FLARE](https://github.com/mir-group/flare) - A package for creating fast and accurate interatomic potentials.
 - [fromage](https://github.com/Crespo-Otero-group/fromage/) - The "FRamewOrk for Molecular AGgregate Excitations" enables localised QM/QM' excited state calculations in a solid state environment.
 - [GPAW](https://wiki.fysik.dtu.dk/gpaw/) - Is a density-functional theory (DFT) Python code based on the projector-augmented wave (PAW) method and the atomic simulation environment (ASE).
 - [horton](http://theochem.github.io/horton/2.0.1/index.html) - Helpful Open-source Research TOol for N-fermion system, a quantum-chemistry program that can perform computations involving model Hamiltonians.
@@ -97,7 +95,6 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [MMTK](http://dirac.cnrs-orleans.fr/MMTK/) - The Molecular Modeling Toolkit is an Open Source program library for molecular simulation applications.
 - [MolMod](http://molmod.github.io/molmod/index.html) - A library with many components that are useful to write molecular modeling programs.
 - [OPEM](https://github.com/ECSIM/opem) - Open source PEM (Proton Exchange Membrane) fuel cell simulation tool.
-- [openff-toolkit](https://github.com/openforcefield/openff-toolkit) - The Open Forcefield Toolkit provides implementations of the SMIRNOFF format, parameterization engine, and other tools.
 - [openmmtools](https://github.com/choderalab/openmmtools) - A batteries-included toolkit for the GPU-accelerated OpenMM molecular simulation engine.
 - [pGrAdd](https://github.com/VlachosGroup/PythonGroupAdditivity) - A library for estimating thermochemical properties of molecules and adsorbates using group additivity.
 - [phonopy](http://atztogo.github.io/phonopy/) - An open source package for phonon calculations at harmonic and quasi-harmonic levels.
@@ -108,7 +105,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [Psi4](http://psicode.org) - A hybrid Python/C++ open-source package for quantum chemistry.
 - [pyEMMA](http://www.emma-project.org/latest/) - Library for the estimation, validation and analysis Markov models of molecular kinetics and other kinetic and thermodynamic models from molecular dynamics data.
 - [pygauss](https://pygauss.readthedocs.io/en/stable/index.html) - An interactive tool for supporting the life cycle of a computational molecular chemistry investigations.
-- [PyQuante](http://pyquante.sourceforge.net/) - Is an open-source suite of programs for developing quantum chemistry methods
+- [PyQuante](http://pyquante.sourceforge.net/) - Is an open-source suite of programs for developing quantum chemistry methods.
 - [pysic](https://github.com/thynnine/pysic) - A calculator incorporating various empirical pair and many-body potentials.
 - [Pyscf](https://github.com/sunqm/pyscf) - A quantum chemistry package written in Python.
 - [pyvib2](http://pyvib2.sourceforge.net/) - A program for analyzing vibrational motion and vibrational spectra.
@@ -119,6 +116,15 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [QUIP](http://libatoms.github.io/QUIP/) - A collection of software tools to carry out molecular dynamics simulations.
 - [torchmd](https://github.com/torchmd/torchmd) - End-To-End Molecular Dynamics (MD) Engine using PyTorch.
 - [tsase](http://theory.cm.utexas.edu/tsase/) - The library which depends on ASE to tackle transition state calculations.
+
+### Force Fields
+
+*Packages related to force fields*
+
+- [FitSNAP](https://github.com/FitSNAP/FitSNAP) - A Package For Training SNAP Interatomic Potentials for use in the LAMMPS molecular dynamics package.
+- [FLARE](https://github.com/mir-group/flare) - A package for creating fast and accurate interatomic potentials.
+- [NeuralForceField](https://github.com/learningmatter-mit/NeuralForceField) - Neural Network Force Field based on PyTorch.
+- [openff-toolkit](https://github.com/openforcefield/openff-toolkit) - The Open Forcefield Toolkit provides implementations of the SMIRNOFF format, parameterization engine, and other tools.
 
 ## Molecular Visualization
 
