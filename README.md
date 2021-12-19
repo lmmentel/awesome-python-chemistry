@@ -119,6 +119,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [QUIP](http://libatoms.github.io/QUIP/) - A collection of software tools to carry out molecular dynamics simulations.
 - [torchmd](https://github.com/torchmd/torchmd) - End-To-End Molecular Dynamics (MD) Engine using PyTorch.
 - [tsase](http://theory.cm.utexas.edu/tsase/) - The library which depends on ASE to tackle transition state calculations.
+- [yank](https://github.com/choderalab/yank) - An open, extensible Python framework for GPU-accelerated alchemical free energy calculations.
 
 ### Force Fields
 
