@@ -156,4 +156,5 @@ Inspired by [awesome-python](https://awesome-python.com).
 ## See Also
 
 - [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) Another list focuses on Cheminformatics, including tools not only in Python.
+- [awesome-small-molecule-ml](https://github.com/benb111/awesome-small-molecule-ml) A collection of papers, datasets, and packages for small-molecule drug discovery. Most links to code are in Python.
 - [polypharmacy-ddi-synergy-survey](https://github.com/AstraZeneca/polypharmacy-ddi-synergy-survey) A collection of research papers (with Python implementations) focusing on drug-drug interactions, synergy and polypharmacy.
