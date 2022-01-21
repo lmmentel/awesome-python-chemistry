@@ -81,6 +81,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 *Packages for atomistic simulations and computational chemistry.*
 
+- [alchemlyb](https://github.com/alchemistry/alchemlyb) - Makes alchemical free energy calculations easier by leveraging the full power and flexibility of the PyData stack.
 - [Atomic Silumation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/index.html) - Is a set of tools and modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations.
 - [basis_set_exchange](https://github.com/MolSSI-BSE/basis_set_exchange) - A library containing basis sets for use in quantum chemistry calculations. In addition, this library has functionality for manipulation of basis set data.
 - [CACTVS](https://www.xemistry.com/academic/) - Cactvs is a universal, scriptable cheminformatics toolkit, with a large collection of modules for property computation, chemistry data file I/O and other tasks.
