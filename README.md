@@ -53,6 +53,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [atom3d](https://github.com/drorlab/atom3d) - Enables machine learning on three-dimensional molecular structure.
 - [chainer-chemistry](https://github.com/chainer/chainer-chemistry) - A deep learning framework (based on Chainer) with applications in Biology and Chemistry.
 - [chemml](https://hachmannlab.github.io/chemml/) - A machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data.
+- [chemprop](https://github.com/chemprop/chemprop) - Message Passing Neural Networks for Molecule Property Prediction .
 - [cgnn](https://github.com/txie-93/cgcnn) - Crystal graph convolutional neural networks for predicting material properties.
 - [deepchem](http://deepchem.io/) - Deep-learning models for Drug Discovery and Quantum Chemistry.
 - [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - A Deep Learning Library for Compound and Protein Modeling DTI, Drug Property, PPI, DDI, Protein Function Prediction.
