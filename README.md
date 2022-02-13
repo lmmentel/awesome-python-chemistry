@@ -86,6 +86,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [Atomic Silumation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/index.html) - Is a set of tools and modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations.
 - [basis_set_exchange](https://github.com/MolSSI-BSE/basis_set_exchange) - A library containing basis sets for use in quantum chemistry calculations. In addition, this library has functionality for manipulation of basis set data.
 - [CACTVS](https://www.xemistry.com/academic/) - Cactvs is a universal, scriptable cheminformatics toolkit, with a large collection of modules for property computation, chemistry data file I/O and other tasks.
+- [cantera](https://github.com/Cantera/cantera) - A collection of object-oriented software tools for problems involving chemical kinetics, thermodynamics, and transport processes.
 - [CatKit](https://github.com/SUNCAT-Center/CatKit) - General purpose tools for high-throughput catalysis.
 - [ccinput](https://github.com/cyllab/ccinput/) - A tool and library for creating quantum chemistry input files.
 - [cclib](https://cclib.github.io/) - A library for parsing output files various quantum chemical programs.
