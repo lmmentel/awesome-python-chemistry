@@ -96,6 +96,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [fromage](https://github.com/Crespo-Otero-group/fromage/) - The "FRamewOrk for Molecular AGgregate Excitations" enables localised QM/QM' excited state calculations in a solid state environment.
 - [GPAW](https://wiki.fysik.dtu.dk/gpaw/) - Is a density-functional theory (DFT) Python code based on the projector-augmented wave (PAW) method and the atomic simulation environment (ASE).
 - [horton](http://theochem.github.io/horton/2.0.1/index.html) - Helpful Open-source Research TOol for N-fermion system, a quantum-chemistry program that can perform computations involving model Hamiltonians.
+- [HTMD](https://github.com/Acellera/htmd) - High-Throughput Molecular Dynamics: Programming Environment for Molecular Discovery.
 - [Indigo](https://github.com/epam/Indigo) - Universal cheminformatics libraries, utilities and database search tools.
 - [mathchem](http://mathchem.iam.upr.si/) - Is a free open source package for calculating topological indices and other invariants of molecular graphs.
 - [MDAnalysis](http://www.mdanalysis.org/) - Is an object-oriented library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats.
