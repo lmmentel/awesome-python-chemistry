@@ -136,6 +136,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [FLARE](https://github.com/mir-group/flare) - A package for creating fast and accurate interatomic potentials.
 - [NeuralForceField](https://github.com/learningmatter-mit/NeuralForceField) - Neural Network Force Field based on PyTorch.
 - [openff-toolkit](https://github.com/openforcefield/openff-toolkit) - The Open Forcefield Toolkit provides implementations of the SMIRNOFF format, parameterization engine, and other tools.
+- [global-chem](https://github.com/Sulstice/global-chem) - A Chemical Knowledge Graph and Toolkit, writting in IUPAC/SMILES/SMARTS, for common small molecules from diverse communities to aid users in selecting compounds for forcefield parametirization
 
 ## Molecular Visualization
 
