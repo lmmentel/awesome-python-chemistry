@@ -23,6 +23,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 *Packages and tools for general chemistry.*
 
+- [aizynthfinder](https://github.com/MolecularAI/aizynthfinder) - A tool for retrosynthetic planning.
 - [batchcalculator](http://lukaszmentel.com/batchcalculator/) - A GUI app based on wxPython for calculating the correct amount of reactants (batch) for a particular composition given by the molar ratio of its components.
 - [cctbx](https://cctbx.github.io/) - The Computational Crystallography Toolbox.
 - [ChemFormula](https://github.com/molshape/ChemFormula) - ChemFormula provides a class for working with chemical formulas. It allows parsing chemical formulas, calculating formula weights, and generating formatted output strings (e.g. in HTML, LaTeX, or Unicode).
