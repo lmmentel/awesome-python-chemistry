@@ -33,6 +33,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [GoodVibes](https://github.com/bobbypaton/GoodVibes) - A Python program to compute quasi-harmonic thermochemical data from Gaussian frequency calculations.
 - [hgraph2graph](https://github.com/wengong-jin/hgraph2graph) - Hierarchical Generation of Molecular Graphs using Structural Motifs.
 - [ionize](http://lewisamarshall.github.io/ionize/) - Calculates the properties of individual ionic species in aqueous solution, as well as aqueous solutions containing arbitrary sets of ions.
+- [LModeA-nano](https://lmodea-nano.readthedocs.io/en/latest/) - Calculates the intrinsic chemical bond strength based on local vibrational mode theory in solids and molecules.
 - [mendeleev](http://mendeleev.readthedocs.io/en/stable/) - A package that provides a python API for accessing various properties of elements from the periodic table of elements.
 - [Open Babel](http://openbabel.org/wiki/Main_Page) - A chemical toolbox designed to speak the many languages of chemical data.
 - [periodictable](http://www.reflectometry.org/danse/elements.html) - This package provides a periodic table of the elements with support for mass, density and xray/neutron scattering information.
