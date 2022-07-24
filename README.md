@@ -36,7 +36,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [LModeA-nano](https://lmodea-nano.readthedocs.io/en/latest/) - Calculates the intrinsic chemical bond strength based on local vibrational mode theory in solids and molecules.
 - [mendeleev](http://mendeleev.readthedocs.io/en/stable/) - A package that provides a python API for accessing various properties of elements from the periodic table of elements.
 - [Open Babel](http://openbabel.org/wiki/Main_Page) - A chemical toolbox designed to speak the many languages of chemical data.
-- [periodictable](http://www.reflectometry.org/danse/elements.html) - This package provides a periodic table of the elements with support for mass, density and xray/neutron scattering information.
+- [periodictable](https://github.com/pkienzle/periodictable) - This package provides a periodic table of the elements with support for mass, density and xray/neutron scattering information.
 - [propka](https://github.com/jensengroup/propka) - Predicts the pKa values of ionizable groups in proteins and protein-ligand complexes based in the 3D structure. 
 - [pybel](https://openbabel.org/docs/dev/UseTheLibrary/Python_Pybel.html) - Pybel provides convenience functions and classes that make it simpler to use the Open Babel libraries from Python.
 - [pycroscopy](https://pycroscopy.github.io/pycroscopy/index.html) - Scientific analysis of nanoscale materials imaging data.
