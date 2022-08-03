@@ -65,7 +65,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [Matminer](https://github.com/hackingmaterials/matminer) - Library of descriptors to aid in the data-mining of materials properties, created by the Lawrence Berkeley National Laboratory.
 - [megnet](https://github.com/materialsvirtuallab/megnet) - Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals.
 - [MAML](https://github.com/materialsvirtuallab/maml) - Aims to provide useful high-level interfaces that make ML for materials science as easy as possible.
-- [MORFEUS](https://kjelljorner.github.io/morfeus/) - Library for fast calculations of **mo**lecula**r** **fe**at**u**re**s** from 3D structures for machine learning with a focus on steric descriptors.
+- [MORFEUS](https://github.com/kjelljorner/morfeus) - Library for fast calculations of **mo**lecula**r** **fe**at**u**re**s** from 3D structures for machine learning with a focus on steric descriptors.
 - [schnetpack](https://github.com/atomistic-machine-learning/schnetpack) - Deep Neural Networks for Atomistic Systems.
 - [selfies](https://github.com/aspuru-guzik-group/selfies) - Self-Referencing Embedded Strings (SELFIES): A 100% robust molecular string representation.
 - [Summit](https://github.com/sustainable-processes/summit) - Package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
