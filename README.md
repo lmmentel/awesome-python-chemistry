@@ -15,6 +15,7 @@ Inspired by [awesome-python](https://awesome-python.com).
   - [Simulations](#simulations)
   - [Molecular Visualization](#molecular-visualization)
   - [Database Wrappers](#database-wrappers)
+  - [Learning Resources](#learning-resources)
   - [See Also](#see-also)
 
 ---
@@ -163,6 +164,12 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [ChemSpiPy](http://chemspipy.readthedocs.io/en/latest/) - [ChemSpider](http://www.chemspider.com/) wrapper, that allows chemical searches, chemical file downloads, depiction and retrieval of chemical properties.
 - [CIRpy](http://cirpy.readthedocs.io/en/latest/) - An interface for the Chemical Identifier Resolver (CIR) by the CADD Group at the NCI/NIH.
 - [pubchempy](http://pubchempy.readthedocs.io/en/latest/) - PubChemPy provides a way to interact with PubChem in Python.
+
+## Learning Resources
+
+*Resources for learning to apply python to chemistry.*
+
+- [SciCompforChemists](https://github.com/weisscharlesj/SciCompforChemists) - Scientific Computing for Chemists with Python is a Jupyter book teaching basic python in chemistry skills, including relevant libraries, and applies them to solving chemical problems. 
 
 ## See Also
 
