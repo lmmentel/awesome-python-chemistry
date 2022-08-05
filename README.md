@@ -169,7 +169,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 *Resources for learning to apply python to chemistry.*
 
-- [SciCompforChemists](https://github.com/weisscharlesj/SciCompforChemists) - A Jupyter book teaching basic Python in chemistry skills, including relevant libraries, and applies them to solve chemical problems. 
+- [SciCompforChemists](https://github.com/weisscharlesj/SciCompforChemists) - Scientific Computing for Chemists with Python is a Jupyter book teaching basic python in chemistry skills, including relevant libraries, and applies them to solving chemical problems. 
 
 ## See Also
 
