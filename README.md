@@ -68,6 +68,8 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [megnet](https://github.com/materialsvirtuallab/megnet) - Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals.
 - [MAML](https://github.com/materialsvirtuallab/maml) - Aims to provide useful high-level interfaces that make ML for materials science as easy as possible.
 - [MORFEUS](https://github.com/kjelljorner/morfeus) - Library for fast calculations of **mo**lecula**r** **fe**at**u**re**s** from 3D structures for machine learning with a focus on steric descriptors.
+- [olorenchemengine](https://github.com/Oloren-AI/olorenchemengine) - Molecular property prediction with unified API for diverse models and respresentations,
+  with integrated uncertainty quantification, interpretability, and hyperparameter/architecture tuning.
 - [schnetpack](https://github.com/atomistic-machine-learning/schnetpack) - Deep Neural Networks for Atomistic Systems.
 - [selfies](https://github.com/aspuru-guzik-group/selfies) - Self-Referencing Embedded Strings (SELFIES): A 100% robust molecular string representation.
 - [Summit](https://github.com/sustainable-processes/summit) - Package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
