@@ -168,6 +168,8 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [ChemSpiPy](http://chemspipy.readthedocs.io/en/latest/) - [ChemSpider](http://www.chemspider.com/) wrapper, that allows chemical searches, chemical file downloads, depiction and retrieval of chemical properties.
 - [CIRpy](http://cirpy.readthedocs.io/en/latest/) - An interface for the Chemical Identifier Resolver (CIR) by the CADD Group at the NCI/NIH.
 - [pubchempy](http://pubchempy.readthedocs.io/en/latest/) - PubChemPy provides a way to interact with PubChem in Python.
+- [chembl-downloader](https://github.com/cthoyt/chembl-downloader) - Automate downloading and querying the latest (or a given) version of [ChEMBL](https://www.ebi.ac.uk/chembl/)
+- [drugbank-downloader](https://github.com/cthoyt/drugbank_downloader) - Automate downloading, opening, and parsing [DrugBank](https://www.drugbank.com/)
 
 ## Learning Resources
 
