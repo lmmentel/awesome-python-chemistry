@@ -119,6 +119,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [pMuTT](https://vlachosgroup.github.io/pMuTT/) - A library for ab-initio thermodynamic and kinetic parameter estimation.
 - [PorePy](https://github.com/pmgbergen/porepy) - A Simulation Tool for Fractured and Deformable Porous Media.
 - [ProDy](http://prody.csb.pitt.edu/) - An open source package for protein structural dynamics analysis with a flexible and responsive API.
+- [ProLIF](https://github.com/chemosim-lab/ProLIF) - Interaction Fingerprints for protein-ligand complexes and more.
 - [Psi4](http://psicode.org) - A hybrid Python/C++ open-source package for quantum chemistry.
 - [pyEMMA](http://www.emma-project.org/latest/) - Library for the estimation, validation and analysis Markov models of molecular kinetics and other kinetic and thermodynamic models from molecular dynamics data.
 - [pygauss](https://pygauss.readthedocs.io/en/stable/index.html) - An interactive tool for supporting the life cycle of a computational molecular chemistry investigations.
