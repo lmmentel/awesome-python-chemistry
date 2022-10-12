@@ -113,6 +113,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [oddt](https://github.com/oddt/oddt) - Open Drug Discovery Toolkit, a modular and comprehensive toolkit for use in cheminformatics, molecular modeling etc.
 - [OPEM](https://github.com/ECSIM/opem) - Open source PEM (Proton Exchange Membrane) fuel cell simulation tool.
 - [openmmtools](https://github.com/choderalab/openmmtools) - A batteries-included toolkit for the GPU-accelerated OpenMM molecular simulation engine.
+- [ParmEd](https://github.com/ParmEd/ParmEd) -  Parameter/topology editor and molecular simulator with visualization capability.
 - [pGrAdd](https://github.com/VlachosGroup/PythonGroupAdditivity) - A library for estimating thermochemical properties of molecules and adsorbates using group additivity.
 - [phonopy](http://atztogo.github.io/phonopy/) - An open source package for phonon calculations at harmonic and quasi-harmonic levels.
 - [PLAMS](https://github.com/SCM-NV/PLAMS) - Python Library for Automating Molecular Simulation: input preparation, job execution, file management, output processing and building data workflows.
