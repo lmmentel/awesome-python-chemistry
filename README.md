@@ -183,7 +183,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 ## Miscellaneous Awesome
 
-- [https://people.physics.anu.edu.au/~ecs103/chart/](Colorful Nuclide Chart) - A beatuful, interactive visualization of nuclides with access to a varirty of nuclear properties and allows saving high quality images for publications, presentations and outreach.
+- [Colorful Nuclide Chart](https://people.physics.anu.edu.au/~ecs103/chart/) - A beatuful, interactive visualization of nuclides with access to a varirty of nuclear properties and allows saving high quality images for publications, presentations and outreach.
 
 ## See Also
 
