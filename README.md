@@ -53,6 +53,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 *Packages and tools for employing machine learning and data science in chemistry.*
 
+- [MoleOOD](https://github.com/yangnianzu0515/MoleOOD) - a robust molecular representation learning framework against distribution shifts.
 - [amp](http://amp.readthedocs.io/en/latest/) - Is an open-source package designed to easily bring machine-learning to atomistic calculations.
 - [atom3d](https://github.com/drorlab/atom3d) - Enables machine learning on three-dimensional molecular structure.
 - [chainer-chemistry](https://github.com/chainer/chainer-chemistry) - A deep learning framework (based on Chainer) with applications in Biology and Chemistry.
