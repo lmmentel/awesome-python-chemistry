@@ -155,6 +155,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 *Packages for viewing molecular structures.*
 
 - [ase-gui](https://wiki.fysik.dtu.dk/ase/ase/gui/gui.html#module-ase.gui) - The graphical user-interface allows users to visualize, manipulate, and render molecular systems and atoms objects.
+- [chemiscope](https://github.com/lab-cosmo/chemiscope) - An interactive structure/property explorer for materials and molecules.
 - [chemview](http://chemview.readthedocs.io/en/latest/) - An interactive molecular viewer designed for the IPython notebook.
 - [imolecule](http://patrickfuller.github.io/imolecule/) - An embeddable webGL molecule viewer and file format converter.
 - [moleculekit](https://github.com/Acellera/moleculekit) - A molecule manipulation library.
