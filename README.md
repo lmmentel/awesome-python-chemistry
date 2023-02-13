@@ -196,4 +196,5 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) Another list focuses on Cheminformatics, including tools not only in Python.
 - [awesome-small-molecule-ml](https://github.com/benb111/awesome-small-molecule-ml) A collection of papers, datasets, and packages for small-molecule drug discovery. Most links to code are in Python.
 - [awesome-molecular-docking](https://github.com/yangnianzu0515/awesome-molecular-docking) A curated list of molecular docking software, datasets, and papers.
+- [jarvis](https://jarvis.nist.gov/) Joint Automated Repository for Various Integrated Simulations is a repository designed to automate materials discovery and optimization using classical force-field, density functional theory, machine learning calculations and experiments.
 - [polypharmacy-ddi-synergy-survey](https://github.com/AstraZeneca/polypharmacy-ddi-synergy-survey) A collection of research papers (with Python implementations) focusing on drug-drug interactions, synergy and polypharmacy.
