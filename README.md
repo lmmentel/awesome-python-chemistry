@@ -1,4 +1,3 @@
-
 # Awesome Python Chemistry [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -39,7 +38,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [nmrglue](https://github.com/jjhelmus/nmrglue) - A package for working with nuclear magnetic resonance (NMR) data including functions for reading common binary file formats and processing NMR data.
 - [Open Babel](http://openbabel.org/wiki/Main_Page) - A chemical toolbox designed to speak the many languages of chemical data.
 - [periodictable](https://github.com/pkienzle/periodictable) - This package provides a periodic table of the elements with support for mass, density and xray/neutron scattering information.
-- [propka](https://github.com/jensengroup/propka) - Predicts the pKa values of ionizable groups in proteins and protein-ligand complexes based in the 3D structure. 
+- [propka](https://github.com/jensengroup/propka) - Predicts the pKa values of ionizable groups in proteins and protein-ligand complexes based in the 3D structure.
 - [pybel](https://openbabel.org/docs/dev/UseTheLibrary/Python_Pybel.html) - Pybel provides convenience functions and classes that make it simpler to use the Open Babel libraries from Python.
 - [pycroscopy](https://pycroscopy.github.io/pycroscopy/index.html) - Scientific analysis of nanoscale materials imaging data.
 - [pyEQL](https://pyeql.readthedocs.io/en/latest/index.html) - A set of tools for conventional calculations involving solutions (mixtures) and electrolytes.
@@ -166,7 +165,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [pymoldyn](https://pgi-jcns.fz-juelich.de/portal/pages/pymoldyn-main.html) - A viewer for atomic clusters, crystalline and amorphous materials in a unit cell corresponding to one of the seven 3D Bravais lattices.
 - [sumo](http://sumo.readthedocs.io/en/latest/) - A toolkit for plotting and analysis of ab initio solid-state calculation data.
 - [surfinpy](https://surfinpy.readthedocs.io/en/latest/) - A library for the analysis, plotting and visualisation of ab initio surface calculation data.
-- [trident-chemwidgets](https://github.com/tridentbio/trident-chemwidgets) - Jupyter Widgets to interact with molecular datasets. 
+- [trident-chemwidgets](https://github.com/tridentbio/trident-chemwidgets) - Jupyter Widgets to interact with molecular datasets.
 
 ## Database Wrappers
 
@@ -183,9 +182,9 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 *Resources for learning to apply python to chemistry.*
 
-- [An Introduction to Applied Bioinformatics](https://github.com/applied-bioinformatics/iab2) - A Jupyter book demonstrating working with biochemical data using the scikit-bio library for tasks such as sequence alignment and calculating Hamming distances. 
+- [An Introduction to Applied Bioinformatics](https://github.com/applied-bioinformatics/iab2) - A Jupyter book demonstrating working with biochemical data using the scikit-bio library for tasks such as sequence alignment and calculating Hamming distances.
 - [Computational Thermodynamics](https://kyleniemeyer.github.io/computational-thermo/content/intro.html) - This collection of Jupyter notebooks demonstrates solutions to a range of thermodynamic problems including solving chemical equilibria, comparing real versus ideal gas behavior, and calculating the temperature and composition of a combustion reaction.
-- [SciCompforChemists](https://github.com/weisscharlesj/SciCompforChemists) - Scientific Computing for Chemists with Python is a Jupyter book teaching basic python in chemistry skills, including relevant libraries, and applies them to solving chemical problems. 
+- [SciCompforChemists](https://github.com/weisscharlesj/SciCompforChemists) - Scientific Computing for Chemists with Python is a Jupyter book teaching basic python in chemistry skills, including relevant libraries, and applies them to solving chemical problems.
 
 ## Miscellaneous Awesome
 
