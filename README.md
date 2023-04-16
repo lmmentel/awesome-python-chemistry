@@ -127,6 +127,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [ProDy](http://prody.csb.pitt.edu/) - An open source package for protein structural dynamics analysis with a flexible and responsive API.
 - [ProLIF](https://github.com/chemosim-lab/ProLIF) - Interaction Fingerprints for protein-ligand complexes and more.
 - [Psi4](http://psicode.org) - A hybrid Python/C++ open-source package for quantum chemistry.
+- [Psi4NumPy](https://github.com/psi4/psi4numpy/) - Psi4-based reference implementations and Jupyter notebook-based tutorials for foundational quantum chemistry methods.
 - [pyEMMA](http://www.emma-project.org/latest/) - Library for the estimation, validation and analysis Markov models of molecular kinetics and other kinetic and thermodynamic models from molecular dynamics data.
 - [pygauss](https://pygauss.readthedocs.io/en/stable/index.html) - An interactive tool for supporting the life cycle of a computational molecular chemistry investigations.
 - [PyQuante](http://pyquante.sourceforge.net/) - Is an open-source suite of programs for developing quantum chemistry methods.
