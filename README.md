@@ -71,6 +71,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [MORFEUS](https://github.com/kjelljorner/morfeus) - Library for fast calculations of **mo**lecula**r** **fe**at**u**re**s** from 3D structures for machine learning with a focus on steric descriptors.
 - [olorenchemengine](https://github.com/Oloren-AI/olorenchemengine) - Molecular property prediction with unified API for diverse models and respresentations,
   with integrated uncertainty quantification, interpretability, and hyperparameter/architecture tuning.
+- [ROBERT](https://robert.readthedocs.io) - Ensemble of automated machine learning protocols that can be run sequentially through a single command line. The program works for regression and classification problems.
 - [schnetpack](https://github.com/atomistic-machine-learning/schnetpack) - Deep Neural Networks for Atomistic Systems.
 - [selfies](https://github.com/aspuru-guzik-group/selfies) - Self-Referencing Embedded Strings (SELFIES): A 100% robust molecular string representation.
 - [Summit](https://github.com/sustainable-processes/summit) - Package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
