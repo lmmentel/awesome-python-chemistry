@@ -23,6 +23,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 *Packages and tools for general chemistry.*
 
+- [AQME](https://aqme.readthedocs.io/) - Ensemble of automated QM workflows that can be run through jupyter notebooks, command lines and yaml files.
 - [aizynthfinder](https://github.com/MolecularAI/aizynthfinder) - A tool for retrosynthetic planning.
 - [batchcalculator](http://lukaszmentel.com/batchcalculator/) - A GUI app based on wxPython for calculating the correct amount of reactants (batch) for a particular composition given by the molar ratio of its components.
 - [cctbx](https://cctbx.github.io/) - The Computational Crystallography Toolbox.
