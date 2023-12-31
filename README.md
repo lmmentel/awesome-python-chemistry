@@ -44,7 +44,8 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [pycroscopy](https://pycroscopy.github.io/pycroscopy/index.html) - Scientific analysis of nanoscale materials imaging data.
 - [pyEQL](https://pyeql.readthedocs.io/en/latest/index.html) - A set of tools for conventional calculations involving solutions (mixtures) and electrolytes.
 - [pyiron](http://pyiron.org/) - pyiron - an integrated development environment (IDE) for computational materials science.
-- [pymatgen](http://pymatgen.org/) - Python Materials Genomics is a robust, open-source library for materials analysis.
+- [pymatgen](http://pymatgen.org) - Python Materials Genomics is a robust, open-source library for materials analysis.
+- [pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [symfit](https://symfit.readthedocs.io/en/stable/) - a curve-fitting library ideally suited to chemistry problems, including fitting experimental kinetics data.
 - [symmetry](http://pythonhosted.org/symmetry/) - Symmetry is a library for materials symmetry analysis.
 - [stk](https://github.com/lukasturcani/stk) - A library for building, manipulating, analyzing and automatic design of molecules, including a genetic algorithm.
@@ -59,7 +60,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [chainer-chemistry](https://github.com/chainer/chainer-chemistry) - A deep learning framework (based on Chainer) with applications in Biology and Chemistry.
 - [chemml](https://hachmannlab.github.io/chemml/) - A machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data.
 - [chemprop](https://github.com/chemprop/chemprop) - Message Passing Neural Networks for Molecule Property Prediction .
-- [cgnn](https://github.com/txie-93/cgcnn) - Crystal graph convolutional neural networks for predicting material properties.
+- [cgcnn](https://github.com/txie-93/cgcnn) - Crystal graph convolutional neural networks for predicting material properties.
 - [deepchem](http://deepchem.io/) - Deep-learning models for Drug Discovery and Quantum Chemistry.
 - [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - A Deep Learning Library for Compound and Protein Modeling DTI, Drug Property, PPI, DDI, Protein Function Prediction.
 - [DescriptaStorus](https://github.com/bp-kelley/descriptastorus) - Descriptor computation (chemistry) and (optional) storage for machine learning.
@@ -93,6 +94,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 *Packages for atomistic simulations and computational chemistry.*
 
 - [alchemlyb](https://github.com/alchemistry/alchemlyb) - Makes alchemical free energy calculations easier by leveraging the full power and flexibility of the PyData stack.
+- [atomate2](https://github.com/materialsproject/atomate2) - atomate2 is a library of computational materials science workflows.
 - [Atomic Silumation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/index.html) - Is a set of tools and modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations.
 - [basis_set_exchange](https://github.com/MolSSI-BSE/basis_set_exchange) - A library containing basis sets for use in quantum chemistry calculations. In addition, this library has functionality for manipulation of basis set data.
 - [CACTVS](https://www.xemistry.com/academic/) - Cactvs is a universal, scriptable cheminformatics toolkit, with a large collection of modules for property computation, chemistry data file I/O and other tasks.
@@ -148,9 +150,11 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 *Packages related to force fields*
 
+- [CHGNet](https://github.com/CederGroupHub/chgnet) - Pretrained universal neural network potential for charge-informed atomistic modeling.
 - [FitSNAP](https://github.com/FitSNAP/FitSNAP) - A Package For Training SNAP Interatomic Potentials for use in the LAMMPS molecular dynamics package.
 - [FLARE](https://github.com/mir-group/flare) - A package for creating fast and accurate interatomic potentials.
 - [global-chem](https://github.com/Sulstice/global-chem) - A Chemical Knowledge Graph and Toolkit, writting in IUPAC/SMILES/SMARTS, for common small molecules from diverse communities to aid users in selecting compounds for forcefield parametirization.
+- [matbench-discovery](https://github.com/janosh/matbench-discovery) - A benchmark for ML-guided high-throughput materials discovery.
 - [NeuralForceField](https://github.com/learningmatter-mit/NeuralForceField) - Neural Network Force Field based on PyTorch.
 - [openff-toolkit](https://github.com/openforcefield/openff-toolkit) - The Open Forcefield Toolkit provides implementations of the SMIRNOFF format, parameterization engine, and other tools.
 
