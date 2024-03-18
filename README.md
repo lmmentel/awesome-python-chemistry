@@ -152,6 +152,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 - [CHGNet](https://github.com/CederGroupHub/chgnet) - Pretrained universal neural network potential for charge-informed atomistic modeling.
 - [FitSNAP](https://github.com/FitSNAP/FitSNAP) - A Package For Training SNAP Interatomic Potentials for use in the LAMMPS molecular dynamics package.
+- [fftool](https://github.com/paduagroup/fftool) - Tool to build force field input files for molecular simulation.
 - [FLARE](https://github.com/mir-group/flare) - A package for creating fast and accurate interatomic potentials.
 - [global-chem](https://github.com/Sulstice/global-chem) - A Chemical Knowledge Graph and Toolkit, writting in IUPAC/SMILES/SMARTS, for common small molecules from diverse communities to aid users in selecting compounds for forcefield parametirization.
 - [matbench-discovery](https://github.com/janosh/matbench-discovery) - A benchmark for ML-guided high-throughput materials discovery.
