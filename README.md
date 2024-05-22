@@ -171,6 +171,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [nglview](https://github.com/arose/nglview) - A [Jupyter](https://jupyter.org/) widget to interactively view molecular structures and trajectories.
 - [PyMOL](https://pymol.org/) - A user-sponsored molecular visualization system on an open-source foundation, maintained and distributed by Schrödinger.
 - [pymoldyn](https://pgi-jcns.fz-juelich.de/portal/pages/pymoldyn-main.html) - A viewer for atomic clusters, crystalline and amorphous materials in a unit cell corresponding to one of the seven 3D Bravais lattices.
+- [rdeditor](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide.
 - [sumo](http://sumo.readthedocs.io/en/latest/) - A toolkit for plotting and analysis of ab initio solid-state calculation data.
 - [surfinpy](https://surfinpy.readthedocs.io/en/latest/) - A library for the analysis, plotting and visualisation of ab initio surface calculation data.
 - [trident-chemwidgets](https://github.com/tridentbio/trident-chemwidgets) - Jupyter Widgets to interact with molecular datasets.
