@@ -117,6 +117,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [MDTraj](http://mdtraj.org) - Package for manipulating molecular dynamics trajectories with support for multiple formats.
 - [MMTK](http://dirac.cnrs-orleans.fr/MMTK/) - The Molecular Modeling Toolkit is an Open Source program library for molecular simulation applications.
 - [MolMod](http://molmod.github.io/molmod/index.html) - A library with many components that are useful to write molecular modeling programs.
+- [nmrsim](https://nmrsim.readthedocs.io/en/latest/index.html) - A library for simulating first- or second-order NMR spectra and dynamic NMR resonances.
 - [oddt](https://github.com/oddt/oddt) - Open Drug Discovery Toolkit, a modular and comprehensive toolkit for use in cheminformatics, molecular modeling etc.
 - [OPEM](https://github.com/ECSIM/opem) - Open source PEM (Proton Exchange Membrane) fuel cell simulation tool.
 - [openmmtools](https://github.com/choderalab/openmmtools) - A batteries-included toolkit for the GPU-accelerated OpenMM molecular simulation engine.
