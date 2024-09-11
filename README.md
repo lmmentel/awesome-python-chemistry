@@ -152,6 +152,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 *Packages related to force fields*
 
+- [acpype](https://github.com/alanwilter/acpype) - Convert AMBER forcefields from ANTECHAMBER to GROMACS format.
 - [CHGNet](https://github.com/CederGroupHub/chgnet) - Pretrained universal neural network potential for charge-informed atomistic modeling.
 - [FitSNAP](https://github.com/FitSNAP/FitSNAP) - A Package For Training SNAP Interatomic Potentials for use in the LAMMPS molecular dynamics package.
 - [fftool](https://github.com/paduagroup/fftool) - Tool to build force field input files for molecular simulation.
