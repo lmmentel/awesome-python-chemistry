@@ -116,6 +116,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [mathchem](http://mathchem.iam.upr.si/) - Is a free open source package for calculating topological indices and other invariants of molecular graphs.
 - [MDAnalysis](http://www.mdanalysis.org/) - Is an object-oriented library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats.
 - [MDTraj](http://mdtraj.org) - Package for manipulating molecular dynamics trajectories with support for multiple formats.
+- [MEXPLORER](https://doi.org/10.5194/GMD-17-2419-2024) - Analyze and visualize complex chemical reaction mechanisms.
 - [MMTK](http://dirac.cnrs-orleans.fr/MMTK/) - The Molecular Modeling Toolkit is an Open Source program library for molecular simulation applications.
 - [MolMod](http://molmod.github.io/molmod/index.html) - A library with many components that are useful to write molecular modeling programs.
 - [nmrsim](https://nmrsim.readthedocs.io/en/latest/index.html) - A library for simulating first- or second-order NMR spectra and dynamic NMR resonances.
