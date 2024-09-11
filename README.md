@@ -138,7 +138,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [PyQuante](http://pyquante.sourceforge.net/) - Is an open-source suite of programs for developing quantum chemistry methods.
 - [pysic](https://github.com/thynnine/pysic) - A calculator incorporating various empirical pair and many-body potentials.
 - [Pyscf](https://github.com/sunqm/pyscf) - A quantum chemistry package written in Python.
-- [pytraj](https://amber-md.github.io/pytraj/latest/index.html) - Python front end for AmberTools cpptraj to analyze MD trajectories.
+- [pytraj](https://amber-md.github.io/pytraj/latest/index.html) - Front end for AmberTools cpptraj to analyze MD trajectories.
 - [pyvib2](http://pyvib2.sourceforge.net/) - A program for analyzing vibrational motion and vibrational spectra.
 - [RDKit](http://www.rdkit.org/) - Open-Source Cheminformatics Software.
 - [ReNView](https://github.com/VlachosGroup/ReNView/wiki/Reaction-Network-Viewer-(ReNView)-Usage-Instructions) - A program to visualize reaction networks.
