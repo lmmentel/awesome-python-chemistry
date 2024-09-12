@@ -112,6 +112,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [horton](http://theochem.github.io/horton/2.0.1/index.html) - Helpful Open-source Research TOol for N-fermion system, a quantum-chemistry program that can perform computations involving model Hamiltonians.
 - [HTMD](https://github.com/Acellera/htmd) - High-Throughput Molecular Dynamics: Programming Environment for Molecular Discovery.
 - [Indigo](https://github.com/epam/Indigo) - Universal cheminformatics libraries, utilities and database search tools.
+- [IoData](https://github.com/theochem/iodata) - File parser/converter for QM, MD and plane-wave DFT programs.
 - [Jarvis-tools](https://github.com/usnistgov/jarvis) - An open-access software package for atomistic data-driven materials design
 - [mathchem](http://mathchem.iam.upr.si/) - Is a free open source package for calculating topological indices and other invariants of molecular graphs.
 - [MDAnalysis](http://www.mdanalysis.org/) - Is an object-oriented library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats.
