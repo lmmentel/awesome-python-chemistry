@@ -37,11 +37,11 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [LModeA-nano](https://lmodea-nano.readthedocs.io/en/latest/) - Calculates the intrinsic chemical bond strength based on local vibrational mode theory in solids and molecules.
 - [mendeleev](http://mendeleev.readthedocs.io/en/stable/) - A package that provides a python API for accessing various properties of elements from the periodic table of elements.
 - [nmrglue](https://github.com/jjhelmus/nmrglue) - A package for working with nuclear magnetic resonance (NMR) data including functions for reading common binary file formats and processing NMR data.
-- [Open Babel](http://openbabel.org/wiki/Main_Page) - A chemical toolbox designed to speak the many languages of chemical data.
+- [Open Babel](http://openbabel.org/) - A chemical toolbox designed to speak the many languages of chemical data.
 - [periodictable](https://github.com/pkienzle/periodictable) - This package provides a periodic table of the elements with support for mass, density and xray/neutron scattering information.
 - [propka](https://github.com/jensengroup/propka) - Predicts the pKa values of ionizable groups in proteins and protein-ligand complexes based in the 3D structure.
 - [pybaselines](https://pybaselines.readthedocs.io/en/latest/) - A package for fitting baselines of spectra for baseline correction.
-- [pybel](https://openbabel.org/docs/dev/UseTheLibrary/Python_Pybel.html) - Pybel provides convenience functions and classes that make it simpler to use the Open Babel libraries from Python.
+- [pybel](https://openbabel.org/docs/UseTheLibrary/Python_Pybel.html) - Pybel provides convenience functions and classes that make it simpler to use the Open Babel libraries from Python.
 - [pycroscopy](https://pycroscopy.github.io/pycroscopy/index.html) - Scientific analysis of nanoscale materials imaging data.
 - [pyEQL](https://pyeql.readthedocs.io/en/latest/index.html) - A set of tools for conventional calculations involving solutions (mixtures) and electrolytes.
 - [pyiron](http://pyiron.org/) - pyiron - an integrated development environment (IDE) for computational materials science.
