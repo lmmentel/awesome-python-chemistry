@@ -37,6 +37,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [LModeA-nano](https://lmodea-nano.readthedocs.io/en/latest/) - Calculates the intrinsic chemical bond strength based on local vibrational mode theory in solids and molecules.
 - [mendeleev](http://mendeleev.readthedocs.io/en/stable/) - A package that provides a python API for accessing various properties of elements from the periodic table of elements.
 - [nmrglue](https://github.com/jjhelmus/nmrglue) - A package for working with nuclear magnetic resonance (NMR) data including functions for reading common binary file formats and processing NMR data.
+- [NistChemPy](https://github.com/IvanChernyshov/NistChemPy) - A package for accessing data from the NIST webbook. API includes access to thermodynamic properties, molecular structures and more.
 - [Open Babel](http://openbabel.org/) - A chemical toolbox designed to speak the many languages of chemical data.
 - [periodictable](https://github.com/pkienzle/periodictable) - This package provides a periodic table of the elements with support for mass, density and xray/neutron scattering information.
 - [propka](https://github.com/jensengroup/propka) - Predicts the pKa values of ionizable groups in proteins and protein-ligand complexes based in the 3D structure.
