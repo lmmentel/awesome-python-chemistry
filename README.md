@@ -105,6 +105,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [CatKit](https://github.com/SUNCAT-Center/CatKit) - General purpose tools for high-throughput catalysis.
 - [ccinput](https://github.com/cyllab/ccinput/) - A tool and library for creating quantum chemistry input files.
 - [cclib](https://cclib.github.io/) - A library for parsing output files various quantum chemical programs.
+- [cctk](https://github.com/ekwan/cctk) - A library for computational chemistry (DFT) for input file generation, data extraction, method screening and analysis.  
 - [cinfony](http://cinfony.github.io/) - A common API to several cheminformatics toolkits (Open Babel, RDKit, the CDK, Indigo, JChem, OPSIN and cheminformatics webservices).
 - [chemlab](http://chemlab.readthedocs.io/en/latest/index.html) - Is a library that can help the user with chemistry-relevant calculations.
 - [emmet](https://github.com/materialsproject/emmet) - A package to 'build' collections of materials properties from the output of computational materials calculations.
