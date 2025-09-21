@@ -187,9 +187,12 @@ Inspired by [awesome-python](https://awesome-python.com).
 *Providing a python layer for accessing chemical databases*
 
 - [ccdc](https://downloads.ccdc.cam.ac.uk/documentation/API/index.html) - An API for the Cambridge Structural Database System.
-- [ChemSpiPy](http://chemspipy.readthedocs.io/en/latest/) - [ChemSpider](http://www.chemspider.com/) wrapper, that allows chemical searches, chemical file downloads, depiction and retrieval of chemical properties.
+- [ChemInformant](https://github.com/HzaCode/ChemInformant) - High-throughput PubChem client for batch queries with caching, validation, rate-limit-aware retries, and a simple CLI.
+- [ChemSpiPy](http://chemspipy.readthedocs.io/en/latest/) - ChemSpider wrapper, that allows chemical searches, chemical file downloads, depiction and retrieval of chemical properties.
 - [CIRpy](http://cirpy.readthedocs.io/en/latest/) - An interface for the Chemical Identifier Resolver (CIR) by the CADD Group at the NCI/NIH.
-- [NistChemPy](https://github.com/IvanChernyshov/NistChemPy) - A package for accessing data from the NIST webbook. API includes access to thermodynamic properties, molecular structures, IR/MS/UV-Vis spectra and more.
+- [NistChemPy](https://github.com/IvanChernyshov/NistChemPy) - A package for accessing data from the NIST webbook...
+- [chembl-downloader](https://github.com/cthoyt/chembl-downloader) - Automate downloading and querying the latest (or a given) version of ChEMBL.
+- [drugbank-downloader](https://github.com/cthoyt/drugbank_downloader) - Automate downloading, opening, and parsing DrugBank.
 - [pubchempy](http://pubchempy.readthedocs.io/en/latest/) - PubChemPy provides a way to interact with PubChem in Python.
 - [chembl-downloader](https://github.com/cthoyt/chembl-downloader) - Automate downloading and querying the latest (or a given) version of [ChEMBL](https://www.ebi.ac.uk/chembl/)
 - [drugbank-downloader](https://github.com/cthoyt/drugbank_downloader) - Automate downloading, opening, and parsing [DrugBank](https://www.drugbank.com/)
