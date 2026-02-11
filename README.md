@@ -70,7 +70,8 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [graphein](https://github.com/a-r-j/graphein) - Provides functionality for producing geometric representations of protein and RNA structures, and biological interaction networks.
 - [Matminer](https://github.com/hackingmaterials/matminer) - Library of descriptors to aid in the data-mining of materials properties, created by the Lawrence Berkeley National Laboratory.
 - [MoleOOD](https://github.com/yangnianzu0515/MoleOOD) - a robust molecular representation learning framework against distribution shifts.
-- [megnet](https://github.com/materialsvirtuallab/megnet) - Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals.
+- [matgl](https://github.com/materialsvirtuallab/matgl) - Machine learning for materials using PyTorch (successor to megnet).
+- [megnet](https://github.com/materialsvirtuallab/megnet) - ~~Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals~~ (deprecated since April 2023, see matgl).
 - [MAML](https://github.com/materialsvirtuallab/maml) - Aims to provide useful high-level interfaces that make ML for materials science as easy as possible.
 - [MORFEUS](https://github.com/kjelljorner/morfeus) - Library for fast calculations of **mo**lecula**r** **fe**at**u**re**s** from 3D structures for machine learning with a focus on steric descriptors.
 - [olorenchemengine](https://github.com/Oloren-AI/olorenchemengine) - Molecular property prediction with unified API for diverse models and respresentations,
