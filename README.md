@@ -38,6 +38,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [mendeleev](http://mendeleev.readthedocs.io/en/stable/) - A package that provides a python API for accessing various properties of elements from the periodic table of elements.
 - [nmrglue](https://github.com/jjhelmus/nmrglue) - A package for working with nuclear magnetic resonance (NMR) data including functions for reading common binary file formats and processing NMR data.
 - [molmass](https://github.com/cgohlke/molmass) - Calculate mass, elemental composition, and mass distribution spectrum of a molecule given by its chemical formula, relative element weights, or sequence.
+- [MolBuilder](https://github.com/Taylor-C-Powell/Molecule_Builder) - Pure-Python toolkit for molecular engineering: SMILES parsing, retrosynthesis planning, reaction condition prediction, process engineering (reactor, safety, costing, scale-up). No C++ dependencies
 - [Open Babel](http://openbabel.org/) - A chemical toolbox designed to speak the many languages of chemical data.
 - [periodictable](https://github.com/pkienzle/periodictable) - This package provides a periodic table of the elements with support for mass, density and xray/neutron scattering information.
 - [propka](https://github.com/jensengroup/propka) - Predicts the pKa values of ionizable groups in proteins and protein-ligand complexes based in the 3D structure.
