@@ -79,6 +79,9 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [schnetpack](https://github.com/atomistic-machine-learning/schnetpack) - Deep Neural Networks for Atomistic Systems.
 - [selfies](https://github.com/aspuru-guzik-group/selfies) - Self-Referencing Embedded Strings (SELFIES): A 100% robust molecular string representation.
 - [Summit](https://github.com/sustainable-processes/summit) - Package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
+- [StereoAwareGNN](https://github.com/abinittio/StereoAwareGNN) - Stereo-aware graph neural network for blood-brain barrier permeability prediction with explicit 3D stereochemical encoding (0.96 external AUC).
+- [Insilico Drug Discovery Toolkit](https://github.com/abinittio/Insilico-Drug-Discovery-Toolkit) - Comprehensive ADMET prediction suite covering monoamine transporter profiling, hERG cardiotoxicity, CYP450 metabolism, and abuse liability scoring.
+- [DoseTrack](https://github.com/abinittio/dosetrack-v4) - Mechanistic PK/PD simulation for lisdexamfetamine with Michaelis-Menten kinetics, RK4 ODE solver, validated against 3 published datasets.
 - [TDC](https://github.com/mims-harvard/TDC) - Therapeutics Data Commons (TDC) is the first unifying framework to systematically access and evaluate machine learning across the entire range of therapeutics.
 - [XenonPy](https://github.com/yoshida-lab/XenonPy) - Library with several compositional and structural material descriptors, along with a few pre-trained neural network models of material properties.
 
