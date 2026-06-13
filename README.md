@@ -11,6 +11,7 @@ Inspired by [awesome-python](https://awesome-python.com).
   - [General Chemistry](#general-chemistry)
   - [Machine Learning](#machine-learning)
   - [Generative Molecular Design](#generative-molecular-design)
+  - [Docking and Virtual Screening](#docking-and-virtual-screening)
   - [Simulations](#simulations)
   - [Molecular Visualization](#molecular-visualization)
   - [Database Wrappers](#database-wrappers)
@@ -88,8 +89,17 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 - [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) - A platform for graph-based molecular generation using graph neural networks.
 - [GuacaMol](https://github.com/BenevolentAI/guacamol) - A package for benchmarking of models for _de novo_ molecular design.
+- [HEDGEHOG](https://github.com/LigandPro/hedgehog) - Stage-based evaluation pipeline for generative molecular design with filters, retrosynthesis checks, docking, pose validation, reports, CLI, and TUI.
 - [moses](https://github.com/molecularsets/moses) - A benchmarking platform for molecular generation models.
 - [perses](https://github.com/choderalab/perses) - Experiments with expanded ensembles to explore chemical space.
+
+## Docking and Virtual Screening
+
+*Packages and tools for molecular docking, virtual screening, and pose validation.*
+
+- [Bento](https://github.com/LigandPro/Bento) - UV-first benchmark for protein-ligand docking with reproducible annotation, pocket similarity, and HPC workflows.
+- [Matcha](https://github.com/LigandPro/Matcha) - Multi-stage Riemannian flow matching pipeline for physically valid protein-ligand docking with GNINA scoring and PoseBusters filtering.
+- [posecheck-fast](https://github.com/LigandPro/posecheck-fast) - High-throughput docking pose validation toolkit with symmetry-corrected RMSD and lightweight PoseBusters-style clash filters.
 
 ## Simulations
 
