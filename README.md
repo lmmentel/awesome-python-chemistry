@@ -88,6 +88,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 - [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) - A platform for graph-based molecular generation using graph neural networks.
 - [GuacaMol](https://github.com/BenevolentAI/guacamol) - A package for benchmarking of models for _de novo_ molecular design.
+- [HEDGEHOG](https://github.com/LigandPro/hedgehog) - Stage-based evaluation pipeline for generative molecular design with filters, retrosynthesis checks, docking, pose validation, reports, CLI, and TUI.
 - [moses](https://github.com/molecularsets/moses) - A benchmarking platform for molecular generation models.
 - [perses](https://github.com/choderalab/perses) - Experiments with expanded ensembles to explore chemical space.
 
