@@ -68,6 +68,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [DescriptaStorus](https://github.com/bp-kelley/descriptastorus) - Descriptor computation (chemistry) and (optional) storage for machine learning.
 - [DScribe](https://github.com/SINGROUP/dscribe) - Descriptor library containing a variety of fingerprinting techniques, including the Smooth Overlap of Atomic Positions (SOAP).
 - [graphein](https://github.com/a-r-j/graphein) - Provides functionality for producing geometric representations of protein and RNA structures, and biological interaction networks.
+- [Matcha](https://github.com/LigandPro/Matcha) - Multi-stage Riemannian flow matching pipeline for physically valid protein-ligand docking with GNINA scoring and PoseBusters filtering.
 - [Matminer](https://github.com/hackingmaterials/matminer) - Library of descriptors to aid in the data-mining of materials properties, created by the Lawrence Berkeley National Laboratory.
 - [MoleOOD](https://github.com/yangnianzu0515/MoleOOD) - a robust molecular representation learning framework against distribution shifts.
 - [megnet](https://github.com/materialsvirtuallab/megnet) - Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals.
