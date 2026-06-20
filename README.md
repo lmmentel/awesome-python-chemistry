@@ -40,6 +40,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [molmass](https://github.com/cgohlke/molmass) - Calculate mass, elemental composition, and mass distribution spectrum of a molecule given by its chemical formula, relative element weights, or sequence.
 - [Open Babel](http://openbabel.org/) - A chemical toolbox designed to speak the many languages of chemical data.
 - [periodictable](https://github.com/pkienzle/periodictable) - This package provides a periodic table of the elements with support for mass, density and xray/neutron scattering information.
+- [posecheck-fast](https://github.com/LigandPro/posecheck-fast) - High-throughput docking pose validation with symmetry-corrected RMSD and lightweight distance and clash filters.
 - [propka](https://github.com/jensengroup/propka) - Predicts the pKa values of ionizable groups in proteins and protein-ligand complexes based in the 3D structure.
 - [pybaselines](https://pybaselines.readthedocs.io/en/latest/) - A package for fitting baselines of spectra for baseline correction.
 - [pybel](https://openbabel.org/docs/UseTheLibrary/Python_Pybel.html) - Pybel provides convenience functions and classes that make it simpler to use the Open Babel libraries from Python.
