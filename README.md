@@ -59,6 +59,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 - [amp](http://amp.readthedocs.io/en/latest/) - Is an open-source package designed to easily bring machine-learning to atomistic calculations.
 - [atom3d](https://github.com/drorlab/atom3d) - Enables machine learning on three-dimensional molecular structure.
+- [Bento](https://github.com/LigandPro/Bento) - Python-first benchmark for protein-ligand docking workflows.
 - [chainer-chemistry](https://github.com/chainer/chainer-chemistry) - A deep learning framework (based on Chainer) with applications in Biology and Chemistry.
 - [chemml](https://hachmannlab.github.io/chemml/) - A machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data.
 - [chemprop](https://github.com/chemprop/chemprop) - Message Passing Neural Networks for Molecule Property Prediction .
