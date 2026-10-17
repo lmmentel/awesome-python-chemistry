@@ -52,6 +52,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [symmetry](http://pythonhosted.org/symmetry/) - Symmetry is a library for materials symmetry analysis.
 - [stk](https://github.com/lukasturcani/stk) - A library for building, manipulating, analyzing and automatic design of molecules, including a genetic algorithm.
 - [spectrochempy](https://github.com/spectrochempy/spectrochempy) - A library for processing, analyzing and modeling spectroscopic data.
+- [XRDKit](https://github.com/NabKh/XRDKit) - Powder X-ray diffraction reference patterns from CIF/POSCAR files, the Crystallography Open Database and Materials Project, with observed-simulated difference plots and an interactive web app.
 
 ## Machine Learning
 
