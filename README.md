@@ -173,6 +173,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 - [chemiscope](https://github.com/lab-cosmo/chemiscope) - An interactive structure/property explorer for materials and molecules.
 - [chemview](http://chemview.readthedocs.io/en/latest/) - An interactive molecular viewer designed for the IPython notebook.
 - [imolecule](http://patrickfuller.github.io/imolecule/) - An embeddable webGL molecule viewer and file format converter.
+- [Molecular Animation](https://github.com/AmadeusBio-ai/Molecular_Animation) - A Blender pipeline that turns PDB/mmCIF and AlphaFold structures into scripted, labelled molecular animations.
 - [moleculekit](https://github.com/Acellera/moleculekit) - A molecule manipulation library.
 - [nglview](https://github.com/arose/nglview) - A [Jupyter](https://jupyter.org/) widget to interactively view molecular structures and trajectories.
 - [PyMOL](https://pymol.org/) - A user-sponsored molecular visualization system on an open-source foundation, maintained and distributed by Schrödinger.
